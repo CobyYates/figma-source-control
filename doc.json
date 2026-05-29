@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "fileName": "Untitled",
+  "generatedAt": "2026-05-29T14:49:05.096Z",
+  "pages": [
+    {
+      "vcId": "vc_mpn2ih17_1_1t61c7",
+      "figmaId": "0:1",
+      "name": "Page 1",
+      "type": "PAGE",
+      "props": {},
+      "children": [
+        {
+          "vcId": "vc_mpr0si45_1_6mwugr",
+          "figmaId": "21:2",
+          "name": "Rectangle 1",
+          "type": "RECTANGLE",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -246,
+            "y": -268,
+            "width": 309,
+            "height": 341,
+            "rotation": 0,
+            "cornerRadius": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1
+          }
+        },
+        {
+          "vcId": "vc_mpr0si4b_2_8935z5",
+          "figmaId": "21:3",
+          "name": "Rectangle 2",
+          "type": "RECTANGLE",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -166,
+            "y": -118,
+            "width": 154,
+            "height": 151,
+            "rotation": 0,
+            "cornerRadius": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1
+          }
+        },
+        {
+          "vcId": "vc_mpr0si4c_3_07itea",
+          "figmaId": "21:4",
+          "name": "this is a test",
+          "type": "TEXT",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -113,
+            "y": -47,
+            "width": 69,
+            "height": 15,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "characters": "this is a test",
+            "fontSize": 12,
+            "fontName": {
+              "family": "Inter",
+              "style": "Regular"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
