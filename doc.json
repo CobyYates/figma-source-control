@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "fileName": "Untitled",
-  "generatedAt": "2026-05-29T14:49:05.096Z",
+  "generatedAt": "2026-05-29T17:10:43.279Z",
   "pages": [
     {
       "vcId": "vc_mpn2ih17_1_1t61c7",
@@ -81,7 +81,7 @@
         {
           "vcId": "vc_mpr0si4c_3_07itea",
           "figmaId": "21:4",
-          "name": "this is a test",
+          "name": "this is a test message",
           "type": "TEXT",
           "props": {
             "visible": true,
@@ -90,7 +90,7 @@
             "blendMode": "PASS_THROUGH",
             "x": -113,
             "y": -47,
-            "width": 69,
+            "width": 123,
             "height": 15,
             "rotation": 0,
             "fills": [
@@ -109,7 +109,80 @@
             ],
             "strokes": [],
             "strokeWeight": 1,
-            "characters": "this is a test",
+            "characters": "this is a test message",
+            "fontSize": 12,
+            "fontName": {
+              "family": "Inter",
+              "style": "Regular"
+            }
+          }
+        },
+        {
+          "vcId": "vc_mpr3b60j_1_tz7ybr",
+          "figmaId": "23:5",
+          "name": "Rectangle 3",
+          "type": "RECTANGLE",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -12,
+            "y": -326,
+            "width": 270,
+            "height": 178,
+            "rotation": 0,
+            "cornerRadius": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1
+          }
+        },
+        {
+          "vcId": "vc_mpr40vk9_1_mf4tww",
+          "figmaId": "25:6",
+          "name": "This is a new test",
+          "type": "TEXT",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": 147,
+            "y": -32,
+            "width": 133,
+            "height": 128,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "characters": "This is a new test",
             "fontSize": 12,
             "fontName": {
               "family": "Inter",
