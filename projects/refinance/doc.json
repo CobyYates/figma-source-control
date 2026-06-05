@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "fileName": "Untitled",
+  "fileName": "Main",
   "fileKey": "",
-  "generatedAt": "2026-06-05T16:21:43.478Z",
+  "generatedAt": "2026-06-05T16:31:38.798Z",
   "branch": "main",
   "status": "in_progress",
   "project": "refinance",
@@ -90,6 +90,46 @@
           }
         },
         {
+          "vcId": "vc_mq1562w4_1_wi2hnd",
+          "figmaId": "5:2",
+          "name": "Additional change on main",
+          "type": "TEXT",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -194,
+            "y": -181,
+            "width": 484,
+            "height": 96,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "characters": "Additional change on main",
+            "fontSize": 40,
+            "fontName": {
+              "family": "Inter",
+              "style": "Extra Bold"
+            },
+            "order": 2
+          }
+        },
+        {
           "vcId": "vc_mq14tbjp_4_wvsojo",
           "figmaId": "1:4",
           "name": "Rectangle 2",
@@ -121,7 +161,7 @@
             ],
             "strokes": [],
             "strokeWeight": 1,
-            "order": 2
+            "order": 3
           }
         }
       ]
