@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "fileName": "Feature",
   "fileKey": "",
-  "generatedAt": "2026-06-05T17:05:10.156Z",
+  "generatedAt": "2026-06-05T17:21:32.932Z",
   "branch": "refinance/feature",
   "status": "in_progress",
   "project": "refinance",
@@ -24,12 +24,32 @@
             "locked": false,
             "opacity": 1,
             "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
             "x": -411,
             "y": -393,
+            "rotation": 0,
             "width": 918,
             "height": 683,
-            "rotation": 0,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
             "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
             "fills": [
               {
                 "type": "SOLID",
@@ -44,8 +64,23 @@
                 "boundVariables": {}
               }
             ],
+            "fillStyleId": "",
             "strokes": [],
+            "strokeStyleId": "",
             "strokeWeight": 1,
+            "strokeTopWeight": 1,
+            "strokeBottomWeight": 1,
+            "strokeLeftWeight": 1,
+            "strokeRightWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeCap": "NONE",
+            "strokeJoin": "MITER",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "effects": [],
+            "effectStyleId": "",
+            "exportSettings": [],
+            "reactions": [],
             "order": 0
           }
         },
@@ -59,51 +94,53 @@
             "locked": false,
             "opacity": 1,
             "blendMode": "PASS_THROUGH",
-            "x": -194,
-            "y": -277,
-            "width": 484,
-            "height": 96,
-            "rotation": 0,
-            "fills": [
-              {
-                "type": "SOLID",
-                "visible": true,
-                "opacity": 1,
-                "blendMode": "NORMAL",
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0
-                },
-                "boundVariables": {}
-              }
-            ],
-            "strokes": [],
-            "strokeWeight": 1,
+            "isMask": false,
+            "maskType": "ALPHA",
             "characters": "This is the main branch initial commit changes",
             "fontSize": 40,
             "fontName": {
               "family": "Inter",
               "style": "Regular"
             },
-            "order": 1
-          }
-        },
-        {
-          "vcId": "vc_mq1562w4_1_wi2hnd",
-          "figmaId": "2001:3",
-          "name": "Additional change on main",
-          "type": "TEXT",
-          "props": {
-            "visible": true,
-            "locked": false,
-            "opacity": 1,
-            "blendMode": "PASS_THROUGH",
+            "textStyleId": "",
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "textAutoResize": "HEIGHT",
+            "textTruncation": "DISABLED",
+            "maxLines": null,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "listSpacing": 0,
+            "hangingPunctuation": false,
+            "hangingList": false,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "textDecoration": "NONE",
+            "textCase": "ORIGINAL",
+            "hyperlink": null,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
             "x": -194,
-            "y": -181,
+            "y": -277,
+            "rotation": 0,
             "width": 484,
             "height": 96,
-            "rotation": 0,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
             "fills": [
               {
                 "type": "SOLID",
@@ -118,15 +155,20 @@
                 "boundVariables": {}
               }
             ],
+            "fillStyleId": "",
             "strokes": [],
+            "strokeStyleId": "",
             "strokeWeight": 1,
-            "characters": "Additional change on main",
-            "fontSize": 40,
-            "fontName": {
-              "family": "Inter",
-              "style": "Extra Bold"
-            },
-            "order": 2
+            "strokeAlign": "OUTSIDE",
+            "strokeCap": "NONE",
+            "strokeJoin": "MITER",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "effects": [],
+            "effectStyleId": "",
+            "exportSettings": [],
+            "reactions": [],
+            "order": 1
           }
         },
         {
@@ -139,12 +181,32 @@
             "locked": false,
             "opacity": 1,
             "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
             "x": -256,
             "y": -77,
+            "rotation": 0,
             "width": 607,
             "height": 173,
-            "rotation": 0,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
             "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
             "fills": [
               {
                 "type": "SOLID",
@@ -159,9 +221,24 @@
                 "boundVariables": {}
               }
             ],
+            "fillStyleId": "",
             "strokes": [],
+            "strokeStyleId": "",
             "strokeWeight": 1,
-            "order": 3
+            "strokeTopWeight": 1,
+            "strokeBottomWeight": 1,
+            "strokeLeftWeight": 1,
+            "strokeRightWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeCap": "NONE",
+            "strokeJoin": "MITER",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "effects": [],
+            "effectStyleId": "",
+            "exportSettings": [],
+            "reactions": [],
+            "order": 2
           }
         },
         {
@@ -174,11 +251,53 @@
             "locked": false,
             "opacity": 1,
             "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "characters": "Change on feature branch",
+            "fontSize": 40,
+            "fontName": {
+              "family": "Inter",
+              "style": "Regular"
+            },
+            "textStyleId": "",
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "textAutoResize": "HEIGHT",
+            "textTruncation": "DISABLED",
+            "maxLines": null,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "listSpacing": 0,
+            "hangingPunctuation": false,
+            "hangingList": false,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "textDecoration": "NONE",
+            "textCase": "ORIGINAL",
+            "hyperlink": null,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
             "x": -151,
             "y": -38,
+            "rotation": 0,
             "width": 397,
             "height": 96,
-            "rotation": 0,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
             "fills": [
               {
                 "type": "SOLID",
@@ -193,15 +312,20 @@
                 "boundVariables": {}
               }
             ],
+            "fillStyleId": "",
             "strokes": [],
+            "strokeStyleId": "",
             "strokeWeight": 1,
-            "characters": "Change on feature branch",
-            "fontSize": 40,
-            "fontName": {
-              "family": "Inter",
-              "style": "Regular"
-            },
-            "order": 4
+            "strokeAlign": "OUTSIDE",
+            "strokeCap": "NONE",
+            "strokeJoin": "MITER",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "effects": [],
+            "effectStyleId": "",
+            "exportSettings": [],
+            "reactions": [],
+            "order": 3
           }
         }
       ]
