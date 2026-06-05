@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "fileName": "Feature",
   "fileKey": "",
-  "generatedAt": "2026-06-05T17:21:32.932Z",
+  "generatedAt": "2026-06-05T17:26:54.410Z",
   "branch": "refinance/feature",
   "status": "in_progress",
   "project": "refinance",
@@ -172,6 +172,93 @@
           }
         },
         {
+          "vcId": "vc_mq1562w4_1_wi2hnd",
+          "figmaId": "2002:4",
+          "name": "Additional change on main",
+          "type": "TEXT",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "characters": "Additional change on main",
+            "fontSize": 40,
+            "fontName": {
+              "family": "Inter",
+              "style": "Extra Bold"
+            },
+            "textStyleId": "",
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "textAutoResize": "HEIGHT",
+            "textTruncation": "DISABLED",
+            "maxLines": null,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "listSpacing": 0,
+            "hangingPunctuation": false,
+            "hangingList": false,
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "textDecoration": "NONE",
+            "textCase": "ORIGINAL",
+            "hyperlink": null,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "x": -194,
+            "y": -181,
+            "rotation": 0,
+            "width": 484,
+            "height": 96,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "boundVariables": {}
+              }
+            ],
+            "fillStyleId": "",
+            "strokes": [],
+            "strokeStyleId": "",
+            "strokeWeight": 1,
+            "strokeAlign": "OUTSIDE",
+            "strokeCap": "NONE",
+            "strokeJoin": "MITER",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "effects": [],
+            "effectStyleId": "",
+            "exportSettings": [],
+            "reactions": [],
+            "order": 2
+          }
+        },
+        {
           "vcId": "vc_mq14tbjp_4_wvsojo",
           "figmaId": "1:4",
           "name": "Rectangle 2",
@@ -238,7 +325,7 @@
             "effectStyleId": "",
             "exportSettings": [],
             "reactions": [],
-            "order": 2
+            "order": 3
           }
         },
         {
@@ -325,7 +412,7 @@
             "effectStyleId": "",
             "exportSettings": [],
             "reactions": [],
-            "order": 3
+            "order": 4
           }
         }
       ]
