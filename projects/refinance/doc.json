@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "fileName": "Untitled",
+  "fileName": "Feature",
   "fileKey": "",
-  "generatedAt": "2026-06-05T16:21:43.478Z",
-  "branch": "main",
+  "generatedAt": "2026-06-05T16:30:23.825Z",
+  "branch": "refinance/feature",
   "status": "in_progress",
   "project": "refinance",
   "pages": [
@@ -122,6 +122,46 @@
             "strokes": [],
             "strokeWeight": 1,
             "order": 2
+          }
+        },
+        {
+          "vcId": "vc_mq154h1r_1_u6t86p",
+          "figmaId": "2001:2",
+          "name": "Change on feature branch",
+          "type": "TEXT",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -151,
+            "y": -38,
+            "width": 397,
+            "height": 96,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.9975210428237915,
+                  "g": 0.9886226058006287,
+                  "b": 0.9886226058006287
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "characters": "Change on feature branch",
+            "fontSize": 40,
+            "fontName": {
+              "family": "Inter",
+              "style": "Regular"
+            },
+            "order": 3
           }
         }
       ]
