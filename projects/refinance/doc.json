@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "fileName": "Untitled",
+  "fileKey": "",
+  "generatedAt": "2026-06-05T16:21:43.478Z",
+  "branch": "main",
+  "status": "in_progress",
+  "project": "refinance",
+  "pages": [
+    {
+      "vcId": "vc_mq14tbjg_1_2yla89",
+      "figmaId": "0:1",
+      "name": "Page 1",
+      "type": "PAGE",
+      "props": {},
+      "children": [
+        {
+          "vcId": "vc_mq14tbjm_2_6on9hg",
+          "figmaId": "1:2",
+          "name": "Rectangle 1",
+          "type": "RECTANGLE",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -411,
+            "y": -393,
+            "width": 918,
+            "height": 683,
+            "rotation": 0,
+            "cornerRadius": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.8509804010391235,
+                  "g": 0.8509804010391235,
+                  "b": 0.8509804010391235
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "order": 0
+          }
+        },
+        {
+          "vcId": "vc_mq14tbjo_3_7xgdvf",
+          "figmaId": "1:3",
+          "name": "This is the main branch initial commit changes",
+          "type": "TEXT",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -194,
+            "y": -277,
+            "width": 484,
+            "height": 96,
+            "rotation": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "characters": "This is the main branch initial commit changes",
+            "fontSize": 40,
+            "fontName": {
+              "family": "Inter",
+              "style": "Regular"
+            },
+            "order": 1
+          }
+        },
+        {
+          "vcId": "vc_mq14tbjp_4_wvsojo",
+          "figmaId": "1:4",
+          "name": "Rectangle 2",
+          "type": "RECTANGLE",
+          "props": {
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "x": -256,
+            "y": -77,
+            "width": 607,
+            "height": 173,
+            "rotation": 0,
+            "cornerRadius": 0,
+            "fills": [
+              {
+                "type": "SOLID",
+                "visible": true,
+                "opacity": 1,
+                "blendMode": "NORMAL",
+                "color": {
+                  "r": 0.34512093663215637,
+                  "g": 0.34512093663215637,
+                  "b": 0.34512093663215637
+                },
+                "boundVariables": {}
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1,
+            "order": 2
+          }
+        }
+      ]
+    }
+  ]
+}
