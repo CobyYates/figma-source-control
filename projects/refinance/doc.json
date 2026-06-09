@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "fileName": "Main",
   "fileKey": "",
-  "generatedAt": "2026-06-09T13:35:30.152Z",
+  "generatedAt": "2026-06-09T20:01:23.291Z",
   "branch": "main",
   "status": "in_progress",
   "project": "refinance",
@@ -49,7 +49,7 @@
             "y": -377,
             "rotation": 0,
             "width": 1440,
-            "height": 1324,
+            "height": 1539,
             "minWidth": null,
             "maxWidth": null,
             "minHeight": null,
@@ -1117,9 +1117,9 @@
                         "gradientStops": [
                           {
                             "color": {
-                              "r": 0.09803921729326248,
-                              "g": 0.4627451002597809,
-                              "b": 0.8235294222831726,
+                              "r": 0.16819751262664795,
+                              "g": 0.18025165796279907,
+                              "b": 0.1921762377023697,
                               "a": 1
                             },
                             "position": 0,
@@ -1127,18 +1127,13 @@
                           },
                           {
                             "color": {
-                              "r": 0.25882354378700256,
-                              "g": 0.6470588445663452,
-                              "b": 0.9607843160629272,
+                              "r": 0.8867789506912231,
+                              "g": 0.947102963924408,
+                              "b": 0.995849609375,
                               "a": 1
                             },
                             "position": 1,
-                            "boundVariables": {
-                              "color": {
-                                "type": "VARIABLE_ALIAS",
-                                "id": "VariableID:cee00e1f4ec370d2300d53e3110ec8459b2b9cee/91:27"
-                              }
-                            }
+                            "boundVariables": {}
                           }
                         ],
                         "gradientTransform": [
@@ -1313,7 +1308,7 @@
                 "y": 116,
                 "rotation": 0,
                 "width": 1440,
-                "height": 1208,
+                "height": 1423,
                 "minWidth": null,
                 "maxWidth": null,
                 "minHeight": null,
@@ -1401,7 +1396,7 @@
                     "y": 64.00006103515625,
                     "rotation": 0,
                     "width": 823,
-                    "height": 1084,
+                    "height": 1299,
                     "minWidth": null,
                     "maxWidth": null,
                     "minHeight": null,
@@ -3566,7 +3561,7 @@
                         "y": 112,
                         "rotation": 0,
                         "width": 823,
-                        "height": 84,
+                        "height": 60,
                         "minWidth": null,
                         "maxWidth": null,
                         "minHeight": null,
@@ -3609,7 +3604,7 @@
                         {
                           "vcId": "vc_mq6omyle_a_hx7uzb",
                           "figmaId": "10:1782",
-                          "name": "Tell us about your <Make & Model>",
+                          "name": "Updated the title",
                           "type": "TEXT",
                           "props": {
                             "visible": true,
@@ -3618,7 +3613,7 @@
                             "blendMode": "PASS_THROUGH",
                             "isMask": false,
                             "maskType": "ALPHA",
-                            "characters": "Tell us about your <Make & Model>",
+                            "characters": "Updated the title",
                             "fontSize": 33,
                             "fontName": {
                               "family": "Inter",
@@ -3651,10 +3646,10 @@
                             "layoutPositioning": "AUTO",
                             "layoutSizingHorizontal": "HUG",
                             "layoutSizingVertical": "HUG",
-                            "x": 125.5,
+                            "x": 274,
                             "y": 0,
                             "rotation": 0,
-                            "width": 572,
+                            "width": 275,
                             "height": 24,
                             "minWidth": null,
                             "maxWidth": null,
@@ -3702,7 +3697,7 @@
                         {
                           "vcId": "vc_mq6omylg_b_c9wi50",
                           "figmaId": "10:1783",
-                          "name": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either. Just a heads up as you head out to get your license plate, we will also need a photo of your odometer while you’re there.",
+                          "name": "Updated the SUBTITLE",
                           "type": "TEXT",
                           "props": {
                             "visible": true,
@@ -3711,7 +3706,7 @@
                             "blendMode": "PASS_THROUGH",
                             "isMask": false,
                             "maskType": "ALPHA",
-                            "characters": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either.  Just a heads up as you head out to get your license plate, we will also need a photo of your odometer while you’re there. ",
+                            "characters": "Updated the SUBTITLE",
                             "fontSize": 16,
                             "textStyleId": "S:e54a6a7a1b71d0dbf1de7d70cfb41f4df8d62855,1042:110",
                             "textAlignHorizontal": "CENTER",
@@ -3744,7 +3739,7 @@
                             "y": 48,
                             "rotation": 0,
                             "width": 804,
-                            "height": 36,
+                            "height": 12,
                             "minWidth": null,
                             "maxWidth": null,
                             "minHeight": null,
@@ -3787,9 +3782,9 @@
                             "reactions": [],
                             "textSegments": [
                               {
-                                "characters": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either.  Just a heads up as you head out to get your license plate, ",
+                                "characters": "Updated the ",
                                 "start": 0,
-                                "end": 143,
+                                "end": 12,
                                 "fontSize": 16,
                                 "fontName": {
                                   "family": "Inter",
@@ -3833,59 +3828,13 @@
                                 "hyperlink": null
                               },
                               {
-                                "characters": "we will also need a photo of your odometer",
-                                "start": 143,
-                                "end": 185,
+                                "characters": "SUBTITLE",
+                                "start": 12,
+                                "end": 20,
                                 "fontSize": 16,
                                 "fontName": {
                                   "family": "Inter",
                                   "style": "Bold"
-                                },
-                                "textDecoration": "NONE",
-                                "textCase": "ORIGINAL",
-                                "lineHeight": {
-                                  "unit": "PIXELS",
-                                  "value": 24
-                                },
-                                "letterSpacing": {
-                                  "unit": "PIXELS",
-                                  "value": 0
-                                },
-                                "fills": [
-                                  {
-                                    "type": "SOLID",
-                                    "visible": true,
-                                    "opacity": 1,
-                                    "blendMode": "NORMAL",
-                                    "color": {
-                                      "r": 0.11764705926179886,
-                                      "g": 0.16078431904315948,
-                                      "b": 0.23137255012989044
-                                    },
-                                    "boundVariables": {
-                                      "color": {
-                                        "type": "VARIABLE_ALIAS",
-                                        "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
-                                      }
-                                    }
-                                  }
-                                ],
-                                "textStyleId": "S:e54a6a7a1b71d0dbf1de7d70cfb41f4df8d62855,1042:110",
-                                "fillStyleId": "",
-                                "listOptions": {
-                                  "type": "NONE"
-                                },
-                                "indentation": 0,
-                                "hyperlink": null
-                              },
-                              {
-                                "characters": " while you’re there. ",
-                                "start": 185,
-                                "end": 206,
-                                "fontSize": 16,
-                                "fontName": {
-                                  "family": "Inter",
-                                  "style": "Regular"
                                 },
                                 "textDecoration": "NONE",
                                 "textCase": "ORIGINAL",
@@ -3962,7 +3911,7 @@
                         "layoutSizingHorizontal": "FIXED",
                         "layoutSizingVertical": "HUG",
                         "x": 26.5,
-                        "y": 236,
+                        "y": 212,
                         "rotation": 0,
                         "width": 770,
                         "height": 61,
@@ -3984,19 +3933,14 @@
                           {
                             "type": "SOLID",
                             "visible": true,
-                            "opacity": 1,
+                            "opacity": 0.47999998927116394,
                             "blendMode": "NORMAL",
                             "color": {
                               "r": 0.9098039269447327,
                               "g": 0.9607843160629272,
                               "b": 0.9137254953384399
                             },
-                            "boundVariables": {
-                              "color": {
-                                "type": "VARIABLE_ALIAS",
-                                "id": "VariableID:8a572d63e126226e93ff39464b3919aae73d7c70/2349:1766"
-                              }
-                            }
+                            "boundVariables": {}
                           }
                         ],
                         "fillStyleId": "",
@@ -4685,7 +4629,7 @@
                         "maskType": "ALPHA",
                         "layoutMode": "VERTICAL",
                         "layoutWrap": "NO_WRAP",
-                        "primaryAxisSizingMode": "AUTO",
+                        "primaryAxisSizingMode": "FIXED",
                         "counterAxisSizingMode": "FIXED",
                         "primaryAxisAlignItems": "MIN",
                         "counterAxisAlignItems": "CENTER",
@@ -4701,12 +4645,12 @@
                         "layoutGrow": 0,
                         "layoutPositioning": "AUTO",
                         "layoutSizingHorizontal": "FILL",
-                        "layoutSizingVertical": "HUG",
+                        "layoutSizingVertical": "FIXED",
                         "x": 0,
-                        "y": 337,
+                        "y": 313,
                         "rotation": 0,
                         "width": 823,
-                        "height": 262,
+                        "height": 388,
                         "minWidth": null,
                         "maxWidth": null,
                         "minHeight": null,
@@ -7492,7 +7436,7 @@
                         "maskType": "ALPHA",
                         "layoutMode": "VERTICAL",
                         "layoutWrap": "NO_WRAP",
-                        "primaryAxisSizingMode": "AUTO",
+                        "primaryAxisSizingMode": "FIXED",
                         "counterAxisSizingMode": "FIXED",
                         "primaryAxisAlignItems": "MIN",
                         "counterAxisAlignItems": "MIN",
@@ -7508,12 +7452,12 @@
                         "layoutGrow": 0,
                         "layoutPositioning": "AUTO",
                         "layoutSizingHorizontal": "FILL",
-                        "layoutSizingVertical": "HUG",
+                        "layoutSizingVertical": "FIXED",
                         "x": 0,
-                        "y": 639,
+                        "y": 741,
                         "rotation": 0,
                         "width": 823,
-                        "height": 139,
+                        "height": 252,
                         "minWidth": null,
                         "maxWidth": null,
                         "minHeight": null,
@@ -9945,7 +9889,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 818,
+                        "y": 1033,
                         "rotation": 0,
                         "width": 823,
                         "height": 48,
@@ -10653,7 +10597,7 @@
                         "layoutSizingHorizontal": "HUG",
                         "layoutSizingVertical": "HUG",
                         "x": 17,
-                        "y": 906,
+                        "y": 1121,
                         "rotation": 0,
                         "width": 789,
                         "height": 178,
