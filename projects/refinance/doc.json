@@ -1,9 +1,9 @@
 {
   "schemaVersion": 3,
-  "fileName": "Main",
+  "fileName": "Main (Copy)",
   "fileKey": "",
-  "generatedAt": "2026-06-11T19:39:48.972Z",
-  "branch": "main",
+  "generatedAt": "2026-06-11T19:57:16.877Z",
+  "branch": "refinance/this-is-a-test",
   "status": "in_progress",
   "project": "refinance",
   "pages": [
@@ -28,7 +28,7 @@
             "maskType": "ALPHA",
             "layoutMode": "VERTICAL",
             "layoutWrap": "NO_WRAP",
-            "primaryAxisSizingMode": "AUTO",
+            "primaryAxisSizingMode": "FIXED",
             "counterAxisSizingMode": "FIXED",
             "primaryAxisAlignItems": "MIN",
             "counterAxisAlignItems": "MIN",
@@ -41,15 +41,15 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "layoutAlign": "INHERIT",
-            "layoutGrow": 1,
+            "layoutGrow": 0,
             "layoutPositioning": "AUTO",
             "layoutSizingHorizontal": "FIXED",
-            "layoutSizingVertical": "HUG",
-            "x": 45,
+            "layoutSizingVertical": "FIXED",
+            "x": 1525,
             "y": -377,
             "rotation": 0,
             "width": 1440,
-            "height": 1324,
+            "height": 1804,
             "minWidth": null,
             "maxWidth": null,
             "minHeight": null,
@@ -1137,9 +1137,9 @@
                         "gradientStops": [
                           {
                             "color": {
-                              "r": 0.09803921729326248,
-                              "g": 0.4627451002597809,
-                              "b": 0.8235294222831726,
+                              "r": 0.8085374236106873,
+                              "g": 0.8085374236106873,
+                              "b": 0.8085374236106873,
                               "a": 1
                             },
                             "position": 0,
@@ -1147,18 +1147,13 @@
                           },
                           {
                             "color": {
-                              "r": 0.25882354378700256,
-                              "g": 0.6470588445663452,
-                              "b": 0.9607843160629272,
+                              "r": 0.13713271915912628,
+                              "g": 0.227102130651474,
+                              "b": 0.2998046875,
                               "a": 1
                             },
                             "position": 1,
-                            "boundVariables": {
-                              "color": {
-                                "type": "VARIABLE_ALIAS",
-                                "id": "VariableID:cee00e1f4ec370d2300d53e3110ec8459b2b9cee/91:27"
-                              }
-                            }
+                            "boundVariables": {}
                           }
                         ],
                         "gradientTransform": [
@@ -1196,14 +1191,7 @@
                     "overflowDirection": "NONE",
                     "exportSettings": [],
                     "reactions": [],
-                    "boundVariables": {
-                      "fills": [
-                        {
-                          "type": "VARIABLE_ALIAS",
-                          "id": "VariableID:cee00e1f4ec370d2300d53e3110ec8459b2b9cee/91:27"
-                        }
-                      ]
-                    },
+                    "boundVariables": {},
                     "componentProperties": {},
                     "order": 1,
                     "componentKey": "b1cd17a6871f05170cd7a0521429da11018e6b70"
@@ -1329,7 +1317,7 @@
                 "layoutMode": "HORIZONTAL",
                 "layoutWrap": "NO_WRAP",
                 "primaryAxisSizingMode": "FIXED",
-                "counterAxisSizingMode": "AUTO",
+                "counterAxisSizingMode": "FIXED",
                 "primaryAxisAlignItems": "SPACE_BETWEEN",
                 "counterAxisAlignItems": "MIN",
                 "itemSpacing": 32,
@@ -1344,12 +1332,12 @@
                 "layoutGrow": 0,
                 "layoutPositioning": "AUTO",
                 "layoutSizingHorizontal": "FIXED",
-                "layoutSizingVertical": "HUG",
+                "layoutSizingVertical": "FIXED",
                 "x": 0,
                 "y": 116,
                 "rotation": 0,
                 "width": 1440,
-                "height": 1208,
+                "height": 1688,
                 "minWidth": null,
                 "maxWidth": null,
                 "minHeight": null,
@@ -1421,7 +1409,7 @@
                     "counterAxisSizingMode": "FIXED",
                     "primaryAxisAlignItems": "MIN",
                     "counterAxisAlignItems": "CENTER",
-                    "itemSpacing": 40,
+                    "itemSpacing": 120,
                     "counterAxisSpacing": 0,
                     "itemReverseZIndex": false,
                     "strokesIncludedInLayout": false,
@@ -1438,7 +1426,7 @@
                     "y": 64.00006103515625,
                     "rotation": 0,
                     "width": 823,
-                    "height": 1084,
+                    "height": 1516,
                     "minWidth": null,
                     "maxWidth": null,
                     "minHeight": null,
@@ -3725,10 +3713,10 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 112,
+                        "y": 192,
                         "rotation": 0,
                         "width": 823,
-                        "height": 84,
+                        "height": 36,
                         "minWidth": null,
                         "maxWidth": null,
                         "minHeight": null,
@@ -3770,107 +3758,6 @@
                       },
                       "children": [
                         {
-                          "vcId": "vc_mq72o8hs_a_kjuh52",
-                          "figmaId": "10:1782",
-                          "name": "Tell us about your <Make & Model>",
-                          "type": "TEXT",
-                          "props": {
-                            "visible": true,
-                            "locked": false,
-                            "opacity": 1,
-                            "blendMode": "PASS_THROUGH",
-                            "isMask": false,
-                            "maskType": "ALPHA",
-                            "characters": "Tell us about your <Make & Model>",
-                            "fontSize": 33,
-                            "fontName": {
-                              "family": "Inter",
-                              "style": "Bold"
-                            },
-                            "textStyleId": "S:7073425fe8fd8f54918f4485d5a598e17ed3f111,1042:121",
-                            "textAlignHorizontal": "LEFT",
-                            "textAlignVertical": "TOP",
-                            "textAutoResize": "WIDTH_AND_HEIGHT",
-                            "textTruncation": "DISABLED",
-                            "maxLines": null,
-                            "paragraphIndent": 0,
-                            "paragraphSpacing": 0,
-                            "listSpacing": 0,
-                            "hangingPunctuation": false,
-                            "hangingList": false,
-                            "lineHeight": {
-                              "unit": "PIXELS",
-                              "value": 36
-                            },
-                            "letterSpacing": {
-                              "unit": "PIXELS",
-                              "value": 0.25
-                            },
-                            "textDecoration": "NONE",
-                            "textCase": "ORIGINAL",
-                            "hyperlink": null,
-                            "layoutAlign": "INHERIT",
-                            "layoutGrow": 0,
-                            "layoutPositioning": "AUTO",
-                            "layoutSizingHorizontal": "HUG",
-                            "layoutSizingVertical": "HUG",
-                            "x": 125.5,
-                            "y": 0,
-                            "rotation": 0,
-                            "width": 572,
-                            "height": 24,
-                            "minWidth": null,
-                            "maxWidth": null,
-                            "minHeight": null,
-                            "maxHeight": null,
-                            "constraints": {
-                              "horizontal": "MIN",
-                              "vertical": "MIN"
-                            },
-                            "fills": [
-                              {
-                                "type": "SOLID",
-                                "visible": true,
-                                "opacity": 1,
-                                "blendMode": "NORMAL",
-                                "color": {
-                                  "r": 0.11764705926179886,
-                                  "g": 0.16078431904315948,
-                                  "b": 0.23137255012989044
-                                },
-                                "boundVariables": {
-                                  "color": {
-                                    "type": "VARIABLE_ALIAS",
-                                    "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
-                                  }
-                                }
-                              }
-                            ],
-                            "fillStyleId": "",
-                            "strokes": [],
-                            "strokeStyleId": "",
-                            "strokeWeight": 1,
-                            "strokeAlign": "OUTSIDE",
-                            "strokeCap": "NONE",
-                            "strokeJoin": "MITER",
-                            "strokeMiterLimit": 4,
-                            "dashPattern": [],
-                            "effects": [],
-                            "effectStyleId": "",
-                            "exportSettings": [],
-                            "reactions": [],
-                            "boundVariables": {
-                              "fills": [
-                                {
-                                  "type": "VARIABLE_ALIAS",
-                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
-                                }
-                              ]
-                            },
-                            "order": 0
-                          }
-                        },
-                        {
                           "vcId": "vc_mq72o8hv_b_9c9w0y",
                           "figmaId": "10:1783",
                           "name": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either. Just a heads up as you head out to get your license plate, we will also need a photo of your odometer while you’re there.",
@@ -3884,6 +3771,10 @@
                             "maskType": "ALPHA",
                             "characters": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either.  Just a heads up as you head out to get your license plate, we will also need a photo of your odometer while you’re there. ",
                             "fontSize": 16,
+                            "fontName": {
+                              "family": "Inter",
+                              "style": "Regular"
+                            },
                             "textStyleId": "S:e54a6a7a1b71d0dbf1de7d70cfb41f4df8d62855,1042:110",
                             "textAlignHorizontal": "CENTER",
                             "textAlignVertical": "CENTER",
@@ -3912,7 +3803,7 @@
                             "layoutSizingHorizontal": "FIXED",
                             "layoutSizingVertical": "HUG",
                             "x": 9.5,
-                            "y": 48,
+                            "y": 0,
                             "rotation": 0,
                             "width": 804,
                             "height": 36,
@@ -3924,25 +3815,6 @@
                               "horizontal": "MIN",
                               "vertical": "MIN"
                             },
-                            "fills": [
-                              {
-                                "type": "SOLID",
-                                "visible": true,
-                                "opacity": 1,
-                                "blendMode": "NORMAL",
-                                "color": {
-                                  "r": 0.11764705926179886,
-                                  "g": 0.16078431904315948,
-                                  "b": 0.23137255012989044
-                                },
-                                "boundVariables": {
-                                  "color": {
-                                    "type": "VARIABLE_ALIAS",
-                                    "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
-                                  }
-                                }
-                              }
-                            ],
                             "fillStyleId": "",
                             "strokes": [],
                             "strokeStyleId": "",
@@ -3962,13 +3834,23 @@
                                   "type": "VARIABLE_ALIAS",
                                   "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
                                 }
+                              ],
+                              "textRangeFills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:02ddcbf91969bcfdc33d527bd90799ed65bd46d2/6013:13"
+                                },
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                }
                               ]
                             },
                             "textSegments": [
                               {
-                                "characters": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either.  Just a heads up as you head out to get your license plate, ",
+                                "characters": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either.  Just a heads up as you head out to get your license plate, we will also nee",
                                 "start": 0,
-                                "end": 143,
+                                "end": 159,
                                 "fontSize": 16,
                                 "fontName": {
                                   "family": "Inter",
@@ -4012,13 +3894,13 @@
                                 "hyperlink": null
                               },
                               {
-                                "characters": "we will also need a photo of your odometer",
-                                "start": 143,
-                                "end": 185,
+                                "characters": "d a photo of your o",
+                                "start": 159,
+                                "end": 178,
                                 "fontSize": 16,
                                 "fontName": {
                                   "family": "Inter",
-                                  "style": "Bold"
+                                  "style": "Regular"
                                 },
                                 "textDecoration": "NONE",
                                 "textCase": "ORIGINAL",
@@ -4037,14 +3919,14 @@
                                     "opacity": 1,
                                     "blendMode": "NORMAL",
                                     "color": {
-                                      "r": 0.11764705926179886,
-                                      "g": 0.16078431904315948,
-                                      "b": 0.23137255012989044
+                                      "r": 1,
+                                      "g": 1,
+                                      "b": 1
                                     },
                                     "boundVariables": {
                                       "color": {
                                         "type": "VARIABLE_ALIAS",
-                                        "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                        "id": "VariableID:02ddcbf91969bcfdc33d527bd90799ed65bd46d2/6013:13"
                                       }
                                     }
                                   }
@@ -4058,8 +3940,8 @@
                                 "hyperlink": null
                               },
                               {
-                                "characters": " while you’re there. ",
-                                "start": 185,
+                                "characters": "dometer while you’re there. ",
+                                "start": 178,
                                 "end": 206,
                                 "fontSize": 16,
                                 "fontName": {
@@ -4104,7 +3986,7 @@
                                 "hyperlink": null
                               }
                             ],
-                            "order": 1
+                            "order": 0
                           }
                         }
                       ]
@@ -4141,7 +4023,7 @@
                         "layoutSizingHorizontal": "FIXED",
                         "layoutSizingVertical": "HUG",
                         "x": 26.5,
-                        "y": 236,
+                        "y": 348,
                         "rotation": 0,
                         "width": 770,
                         "height": 61,
@@ -4905,7 +4787,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 337,
+                        "y": 529,
                         "rotation": 0,
                         "width": 823,
                         "height": 262,
@@ -7931,7 +7813,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 639,
+                        "y": 911,
                         "rotation": 0,
                         "width": 823,
                         "height": 139,
@@ -9562,7 +9444,7 @@
                                 "maskType": "ALPHA",
                                 "layoutMode": "HORIZONTAL",
                                 "layoutWrap": "NO_WRAP",
-                                "primaryAxisSizingMode": "AUTO",
+                                "primaryAxisSizingMode": "FIXED",
                                 "counterAxisSizingMode": "FIXED",
                                 "primaryAxisAlignItems": "MIN",
                                 "counterAxisAlignItems": "CENTER",
@@ -9577,12 +9459,12 @@
                                 "layoutAlign": "INHERIT",
                                 "layoutGrow": 0,
                                 "layoutPositioning": "AUTO",
-                                "layoutSizingHorizontal": "HUG",
+                                "layoutSizingHorizontal": "FIXED",
                                 "layoutSizingVertical": "FIXED",
                                 "x": 0,
                                 "y": 0,
                                 "rotation": 0,
-                                "width": 91,
+                                "width": 76,
                                 "height": 36,
                                 "minWidth": null,
                                 "maxWidth": null,
@@ -10555,7 +10437,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 818,
+                        "y": 1170,
                         "rotation": 0,
                         "width": 823,
                         "height": 48,
@@ -11363,7 +11245,7 @@
                         "layoutSizingHorizontal": "HUG",
                         "layoutSizingVertical": "HUG",
                         "x": 17,
-                        "y": 906,
+                        "y": 1338,
                         "rotation": 0,
                         "width": 789,
                         "height": 178,
