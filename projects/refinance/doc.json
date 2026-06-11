@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "fileName": "Main",
   "fileKey": "",
-  "generatedAt": "2026-06-11T19:17:18.014Z",
+  "generatedAt": "2026-06-11T19:39:48.972Z",
   "branch": "main",
   "status": "in_progress",
   "project": "refinance",
@@ -93,6 +93,7 @@
               }
             ],
             "reactions": [],
+            "boundVariables": {},
             "order": 0
           },
           "children": [
@@ -168,6 +169,7 @@
                 "overflowDirection": "NONE",
                 "exportSettings": [],
                 "reactions": [],
+                "boundVariables": {},
                 "order": 0
               },
               "children": [
@@ -256,6 +258,7 @@
                     "overflowDirection": "NONE",
                     "exportSettings": [],
                     "reactions": [],
+                    "boundVariables": {},
                     "componentProperties": {},
                     "order": 0,
                     "componentKey": "d08a0d0bba04cb165871bdbd93c48bff276be14e"
@@ -346,6 +349,7 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {},
                         "componentProperties": {},
                         "order": 0,
                         "componentKey": "31d118b7b7e75b15a51396179696b272b0f46c62"
@@ -417,6 +421,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 0
                           }
                         },
@@ -486,6 +491,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 1
                           }
                         },
@@ -555,6 +561,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 2
                           }
                         },
@@ -624,6 +631,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 3
                           }
                         },
@@ -693,6 +701,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 4
                           }
                         },
@@ -820,6 +829,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 5
                           }
                         },
@@ -889,6 +899,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 6
                           }
                         },
@@ -958,6 +969,7 @@
                             ],
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 7
                           }
                         }
@@ -1053,6 +1065,14 @@
                         "effectStyleId": "",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {
+                          "fills": [
+                            {
+                              "type": "VARIABLE_ALIAS",
+                              "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/91:14"
+                            }
+                          ]
+                        },
                         "order": 1
                       }
                     }
@@ -1176,6 +1196,14 @@
                     "overflowDirection": "NONE",
                     "exportSettings": [],
                     "reactions": [],
+                    "boundVariables": {
+                      "fills": [
+                        {
+                          "type": "VARIABLE_ALIAS",
+                          "id": "VariableID:cee00e1f4ec370d2300d53e3110ec8459b2b9cee/91:27"
+                        }
+                      ]
+                    },
                     "componentProperties": {},
                     "order": 1,
                     "componentKey": "b1cd17a6871f05170cd7a0521429da11018e6b70"
@@ -1271,6 +1299,14 @@
                         "effectStyleId": "",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {
+                          "fills": [
+                            {
+                              "type": "VARIABLE_ALIAS",
+                              "id": "VariableID:6b9822ff5c59dac846ce89036b1ac0d67f555ae6/90:10"
+                            }
+                          ]
+                        },
                         "order": 0
                       }
                     }
@@ -1363,6 +1399,7 @@
                 "overflowDirection": "NONE",
                 "exportSettings": [],
                 "reactions": [],
+                "boundVariables": {},
                 "order": 1
               },
               "children": [
@@ -1438,6 +1475,7 @@
                     "overflowDirection": "NONE",
                     "exportSettings": [],
                     "reactions": [],
+                    "boundVariables": {},
                     "order": 0
                   },
                   "children": [
@@ -1513,6 +1551,7 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {},
                         "order": 0
                       },
                       "children": [
@@ -1588,6 +1627,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "componentProperties": {
                               "state": {
                                 "value": "complete",
@@ -1676,6 +1716,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -1750,6 +1791,14 @@
                                     ],
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                        }
+                                      ]
+                                    },
                                     "order": 0
                                   }
                                 },
@@ -1843,6 +1892,14 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                        }
+                                      ]
+                                    },
                                     "order": 1
                                   }
                                 }
@@ -1912,6 +1969,14 @@
                             "effectStyleId": "",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "strokes": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                }
+                              ]
+                            },
                             "order": 1
                           }
                         },
@@ -1987,6 +2052,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "componentProperties": {
                               "state": {
                                 "value": "active",
@@ -2075,6 +2141,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -2108,6 +2175,7 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -2201,6 +2269,14 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                            }
+                                          ]
+                                        },
                                         "componentProperties": {
                                           "type": {
                                             "value": "default",
@@ -2308,6 +2384,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:3307275cec5468f613b4cf9aec8a972f806bf00d/2349:1823"
+                                            }
+                                          ]
+                                        },
                                         "order": 1
                                       }
                                     }
@@ -2403,6 +2487,14 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                        }
+                                      ]
+                                    },
                                     "order": 1
                                   }
                                 }
@@ -2472,6 +2564,14 @@
                             "effectStyleId": "",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "strokes": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                }
+                              ]
+                            },
                             "order": 3
                           }
                         },
@@ -2547,6 +2647,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "componentProperties": {
                               "state": {
                                 "value": "next",
@@ -2635,6 +2736,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -2668,6 +2770,7 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -2761,6 +2864,14 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                            }
+                                          ]
+                                        },
                                         "componentProperties": {
                                           "type": {
                                             "value": "default",
@@ -2868,6 +2979,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:3307275cec5468f613b4cf9aec8a972f806bf00d/2349:1823"
+                                            }
+                                          ]
+                                        },
                                         "order": 1
                                       }
                                     }
@@ -2963,6 +3082,14 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                        }
+                                      ]
+                                    },
                                     "order": 1
                                   }
                                 }
@@ -3032,6 +3159,14 @@
                             "effectStyleId": "",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "strokes": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:cafb6e7a7694c86d27b20e95beedb11fe7e48892/2349:1764"
+                                }
+                              ]
+                            },
                             "order": 5
                           }
                         },
@@ -3107,6 +3242,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "componentProperties": {
                               "state": {
                                 "value": "next",
@@ -3195,6 +3331,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -3228,6 +3365,7 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -3321,6 +3459,14 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:a422d05e4e1835dbee838af8b65bf143fcc0599c/2349:1753"
+                                            }
+                                          ]
+                                        },
                                         "componentProperties": {
                                           "type": {
                                             "value": "default",
@@ -3427,6 +3573,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:3307275cec5468f613b4cf9aec8a972f806bf00d/2349:1823"
+                                            }
+                                          ]
+                                        },
                                         "order": 1
                                       }
                                     }
@@ -3522,6 +3676,14 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:a422d05e4e1835dbee838af8b65bf143fcc0599c/2349:1753"
+                                        }
+                                      ]
+                                    },
                                     "order": 1
                                   }
                                 }
@@ -3603,6 +3765,7 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {},
                         "order": 1
                       },
                       "children": [
@@ -3696,6 +3859,14 @@
                             "effectStyleId": "",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "fills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                }
+                              ]
+                            },
                             "order": 0
                           }
                         },
@@ -3785,6 +3956,14 @@
                             "effectStyleId": "",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "fills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                }
+                              ]
+                            },
                             "textSegments": [
                               {
                                 "characters": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either.  Just a heads up as you head out to get your license plate, ",
@@ -4015,6 +4194,7 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {},
                         "order": 2
                       },
                       "children": [
@@ -4090,6 +4270,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 0
                           },
                           "children": [
@@ -4165,6 +4346,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -4258,6 +4440,14 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:65b72531a75c9a9ef0858361ec5bd4bc4f210e54/2349:1778"
+                                        }
+                                      ]
+                                    },
                                     "order": 0
                                   }
                                 },
@@ -4333,6 +4523,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 1
                                   },
                                   "children": [
@@ -4422,6 +4613,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:65b72531a75c9a9ef0858361ec5bd4bc4f210e54/2349:1778"
+                                            }
+                                          ]
+                                        },
                                         "textSegments": [
                                           {
                                             "characters": "$223.23/month",
@@ -4661,6 +4860,14 @@
                             "effectStyleId": "",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "fills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:a422d05e4e1835dbee838af8b65bf143fcc0599c/2349:1753"
+                                }
+                              ]
+                            },
                             "order": 1
                           }
                         }
@@ -4738,6 +4945,7 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {},
                         "order": 3
                       },
                       "children": [
@@ -4813,6 +5021,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 0
                           },
                           "children": [
@@ -4888,6 +5097,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "componentProperties": {
                                   "Icon#1301:0": {
                                     "type": "INSTANCE_SWAP",
@@ -5093,6 +5303,30 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "topLeftRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "topRightRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "bottomLeftRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "bottomRightRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "strokes": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:df50d78705b4372e4de92b27fd9d8c5e609c01db/2349:1774"
+                                        }
+                                      ]
+                                    },
                                     "order": 0
                                   },
                                   "children": [
@@ -5186,6 +5420,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:a422d05e4e1835dbee838af8b65bf143fcc0599c/2349:1753"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     }
@@ -5278,6 +5520,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "componentProperties": {
                                   "Empty": {
                                     "value": "True",
@@ -5412,6 +5655,30 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "topLeftRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "topRightRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "bottomLeftRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "bottomRightRadius": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                      },
+                                      "strokes": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:df50d78705b4372e4de92b27fd9d8c5e609c01db/2349:1774"
+                                        }
+                                      ]
+                                    },
                                     "order": 0
                                   },
                                   "children": [
@@ -5505,6 +5772,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     },
@@ -5593,6 +5868,7 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {},
                                         "order": 1
                                       },
                                       "children": [
@@ -5667,6 +5943,14 @@
                                             ],
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {
+                                              "fills": [
+                                                {
+                                                  "type": "VARIABLE_ALIAS",
+                                                  "id": "VariableID:2db0f24f8981210ee64a01a6c4e6342511bd4388/2349:1765"
+                                                }
+                                              ]
+                                            },
                                             "order": 0
                                           }
                                         }
@@ -5786,6 +6070,20 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "fills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:f7b1737d2f06f0e2c37ab5cfde2f293534dc6226/2349:1815"
+                                }
+                              ],
+                              "strokes": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:df50d78705b4372e4de92b27fd9d8c5e609c01db/2349:1774"
+                                }
+                              ]
+                            },
                             "order": 1
                           },
                           "children": [
@@ -5861,6 +6159,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -5936,6 +6235,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -6011,6 +6311,7 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {},
                                         "componentProperties": {
                                           "Icon#1301:0": {
                                             "type": "INSTANCE_SWAP",
@@ -6216,6 +6517,30 @@
                                             "overflowDirection": "NONE",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {
+                                              "topLeftRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "topRightRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "bottomLeftRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "bottomRightRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "strokes": [
+                                                {
+                                                  "type": "VARIABLE_ALIAS",
+                                                  "id": "VariableID:df50d78705b4372e4de92b27fd9d8c5e609c01db/2349:1774"
+                                                }
+                                              ]
+                                            },
                                             "order": 0
                                           },
                                           "children": [
@@ -6309,6 +6634,14 @@
                                                 "effectStyleId": "",
                                                 "exportSettings": [],
                                                 "reactions": [],
+                                                "boundVariables": {
+                                                  "fills": [
+                                                    {
+                                                      "type": "VARIABLE_ALIAS",
+                                                      "id": "VariableID:a422d05e4e1835dbee838af8b65bf143fcc0599c/2349:1753"
+                                                    }
+                                                  ]
+                                                },
                                                 "order": 0
                                               }
                                             }
@@ -6388,6 +6721,7 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {},
                                         "componentProperties": {
                                           "Icon#1301:0": {
                                             "type": "INSTANCE_SWAP",
@@ -6593,6 +6927,30 @@
                                             "overflowDirection": "NONE",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {
+                                              "topLeftRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "topRightRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "bottomLeftRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "bottomRightRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "strokes": [
+                                                {
+                                                  "type": "VARIABLE_ALIAS",
+                                                  "id": "VariableID:df50d78705b4372e4de92b27fd9d8c5e609c01db/2349:1774"
+                                                }
+                                              ]
+                                            },
                                             "order": 0
                                           },
                                           "children": [
@@ -6686,6 +7044,14 @@
                                                 "effectStyleId": "",
                                                 "exportSettings": [],
                                                 "reactions": [],
+                                                "boundVariables": {
+                                                  "fills": [
+                                                    {
+                                                      "type": "VARIABLE_ALIAS",
+                                                      "id": "VariableID:a422d05e4e1835dbee838af8b65bf143fcc0599c/2349:1753"
+                                                    }
+                                                  ]
+                                                },
                                                 "order": 0
                                               }
                                             }
@@ -6767,6 +7133,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 1
                                   },
                                   "children": [
@@ -6860,6 +7227,20 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ],
+                                          "textRangeFills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     }
@@ -6939,6 +7320,24 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {
+                                  "topLeftRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:4efbcc93984d42e2979051fffb6fd510f76bdd0b/77:604"
+                                  },
+                                  "topRightRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:4efbcc93984d42e2979051fffb6fd510f76bdd0b/77:604"
+                                  },
+                                  "bottomLeftRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:4efbcc93984d42e2979051fffb6fd510f76bdd0b/77:604"
+                                  },
+                                  "bottomRightRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:4efbcc93984d42e2979051fffb6fd510f76bdd0b/77:604"
+                                  }
+                                },
                                 "order": 1
                               },
                               "children": [
@@ -7032,6 +7431,14 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                        }
+                                      ]
+                                    },
                                     "order": 0
                                   }
                                 },
@@ -7125,6 +7532,14 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                        }
+                                      ]
+                                    },
                                     "order": 1
                                   },
                                   "children": [
@@ -7200,6 +7615,7 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {},
                                         "order": 0
                                       },
                                       "children": [
@@ -7288,6 +7704,7 @@
                                             "effectStyleId": "",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {},
                                             "order": 0
                                           }
                                         },
@@ -7376,6 +7793,7 @@
                                             "overflowDirection": "NONE",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {},
                                             "componentProperties": {
                                               "size": {
                                                 "value": "20",
@@ -7458,6 +7876,14 @@
                                                 ],
                                                 "exportSettings": [],
                                                 "reactions": [],
+                                                "boundVariables": {
+                                                  "fills": [
+                                                    {
+                                                      "type": "VARIABLE_ALIAS",
+                                                      "id": "VariableID:55bf3907b2fd4cda80db54461af62f93f2153f35/2349:1777"
+                                                    }
+                                                  ]
+                                                },
                                                 "order": 0
                                               }
                                             }
@@ -7563,6 +7989,14 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {
+                          "fills": [
+                            {
+                              "type": "VARIABLE_ALIAS",
+                              "id": "VariableID:f7b1737d2f06f0e2c37ab5cfde2f293534dc6226/2349:1815"
+                            }
+                          ]
+                        },
                         "order": 4
                       },
                       "children": [
@@ -7638,6 +8072,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 0
                           },
                           "children": [
@@ -7713,6 +8148,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -7788,6 +8224,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -7881,6 +8318,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     },
@@ -7974,6 +8419,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ]
+                                        },
                                         "order": 1
                                       }
                                     }
@@ -8071,6 +8524,14 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {
+                                  "fills": [
+                                    {
+                                      "type": "VARIABLE_ALIAS",
+                                      "id": "VariableID:3307275cec5468f613b4cf9aec8a972f806bf00d/2349:1823"
+                                    }
+                                  ]
+                                },
                                 "componentProperties": {
                                   "Icon#1301:0": {
                                     "type": "INSTANCE_SWAP",
@@ -8245,6 +8706,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -8338,6 +8800,14 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "strokes": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:dbc546eae3a3d4760248497837f9402c8e3d0571/2349:1728"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       },
                                       "children": [
@@ -8426,6 +8896,7 @@
                                             "overflowDirection": "NONE",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {},
                                             "componentProperties": {},
                                             "order": 0,
                                             "componentKey": "b760db94a64518ae192b583a87ba1125cfded536"
@@ -8502,6 +8973,14 @@
                                                 ],
                                                 "exportSettings": [],
                                                 "reactions": [],
+                                                "boundVariables": {
+                                                  "fills": [
+                                                    {
+                                                      "type": "VARIABLE_ALIAS",
+                                                      "id": "VariableID:2db0f24f8981210ee64a01a6c4e6342511bd4388/282:4"
+                                                    }
+                                                  ]
+                                                },
                                                 "order": 0
                                               }
                                             }
@@ -8597,6 +9076,14 @@
                                             "effectStyleId": "",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {
+                                              "fills": [
+                                                {
+                                                  "type": "VARIABLE_ALIAS",
+                                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                                }
+                                              ]
+                                            },
                                             "order": 1
                                           }
                                         },
@@ -8685,6 +9172,7 @@
                                             "overflowDirection": "NONE",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {},
                                             "order": 2
                                           },
                                           "children": [
@@ -8759,6 +9247,14 @@
                                                 ],
                                                 "exportSettings": [],
                                                 "reactions": [],
+                                                "boundVariables": {
+                                                  "fills": [
+                                                    {
+                                                      "type": "VARIABLE_ALIAS",
+                                                      "id": "VariableID:0064b0572754115da541a327e3bd317caa7825be/2349:1775"
+                                                    }
+                                                  ]
+                                                },
                                                 "order": 0
                                               }
                                             }
@@ -8858,6 +9354,14 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:f774f79a1571adf186934e41d0983eb48323ee4d/2349:1736"
+                                        }
+                                      ]
+                                    },
                                     "order": 1
                                   },
                                   "children": [
@@ -8951,6 +9455,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:a422d05e4e1835dbee838af8b65bf143fcc0599c/2349:1753"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     }
@@ -9032,6 +9544,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 1
                           },
                           "children": [
@@ -9107,6 +9620,44 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {
+                                  "itemSpacing": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:ecd4f6f7797d49928260f4f4a5248654660ae304/91:108"
+                                  },
+                                  "paddingLeft": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:a86d477c7e940103e4950193b7e20671e715e79a/2224:6"
+                                  },
+                                  "paddingTop": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:64db0149007b652e81327cf6d1661e84d34c46cd/2224:5"
+                                  },
+                                  "paddingRight": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:a86d477c7e940103e4950193b7e20671e715e79a/2224:6"
+                                  },
+                                  "paddingBottom": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:64db0149007b652e81327cf6d1661e84d34c46cd/2224:5"
+                                  },
+                                  "topLeftRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  },
+                                  "topRightRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  },
+                                  "bottomLeftRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  },
+                                  "bottomRightRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  }
+                                },
                                 "componentProperties": {
                                   "Icon#1301:37": {
                                     "type": "INSTANCE_SWAP",
@@ -9280,6 +9831,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -9368,6 +9920,7 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {},
                                         "order": 0
                                       }
                                     }
@@ -9465,6 +10018,50 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {
+                                  "itemSpacing": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:ecd4f6f7797d49928260f4f4a5248654660ae304/91:108"
+                                  },
+                                  "paddingLeft": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:a86d477c7e940103e4950193b7e20671e715e79a/2224:6"
+                                  },
+                                  "paddingTop": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:b27d7dfcdefaec284f2e9b8e11d335d3ac6b23fa/2224:3"
+                                  },
+                                  "paddingRight": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:a86d477c7e940103e4950193b7e20671e715e79a/2224:6"
+                                  },
+                                  "paddingBottom": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:b27d7dfcdefaec284f2e9b8e11d335d3ac6b23fa/2224:3"
+                                  },
+                                  "topLeftRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  },
+                                  "topRightRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  },
+                                  "bottomLeftRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  },
+                                  "bottomRightRadius": {
+                                    "type": "VARIABLE_ALIAS",
+                                    "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                  },
+                                  "fills": [
+                                    {
+                                      "type": "VARIABLE_ALIAS",
+                                      "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                    }
+                                  ]
+                                },
                                 "componentProperties": {
                                   "Icon#1301:37": {
                                     "type": "INSTANCE_SWAP",
@@ -9651,6 +10248,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "componentProperties": {},
                                     "order": 0,
                                     "componentKey": "4b7bcc06e584a0d5aa5f1c5bc04f2c64731723f5"
@@ -9727,6 +10325,14 @@
                                         ],
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:55bf3907b2fd4cda80db54461af62f93f2153f35/2349:1777"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     }
@@ -9804,6 +10410,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 1
                                   },
                                   "children": [
@@ -9897,6 +10504,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:6b9822ff5c59dac846ce89036b1ac0d67f555ae6/2349:1754"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     }
@@ -9980,6 +10595,7 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {},
                         "order": 5
                       },
                       "children": [
@@ -10055,6 +10671,44 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "itemSpacing": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:ecd4f6f7797d49928260f4f4a5248654660ae304/91:108"
+                              },
+                              "paddingLeft": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:a86d477c7e940103e4950193b7e20671e715e79a/2224:6"
+                              },
+                              "paddingTop": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:64db0149007b652e81327cf6d1661e84d34c46cd/2224:5"
+                              },
+                              "paddingRight": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:a86d477c7e940103e4950193b7e20671e715e79a/2224:6"
+                              },
+                              "paddingBottom": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:64db0149007b652e81327cf6d1661e84d34c46cd/2224:5"
+                              },
+                              "topLeftRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              },
+                              "topRightRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              },
+                              "bottomLeftRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              },
+                              "bottomRightRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              }
+                            },
                             "componentProperties": {
                               "Icon#1301:37": {
                                 "type": "INSTANCE_SWAP",
@@ -10228,6 +10882,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -10321,6 +10976,14 @@
                                     "effectStyleId": "",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:2db0f24f8981210ee64a01a6c4e6342511bd4388/2349:1765"
+                                        }
+                                      ]
+                                    },
                                     "order": 0
                                   }
                                 }
@@ -10418,6 +11081,50 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "itemSpacing": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:ecd4f6f7797d49928260f4f4a5248654660ae304/91:108"
+                              },
+                              "paddingLeft": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:e014485a816504eac732fabd53f8316bd10ab1fc/2224:10"
+                              },
+                              "paddingTop": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:a91cc7bc51fd26d39aa74710401e76b57b6ad7b4/2224:9"
+                              },
+                              "paddingRight": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:e014485a816504eac732fabd53f8316bd10ab1fc/2224:10"
+                              },
+                              "paddingBottom": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:a91cc7bc51fd26d39aa74710401e76b57b6ad7b4/2224:9"
+                              },
+                              "topLeftRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              },
+                              "topRightRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              },
+                              "bottomLeftRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              },
+                              "bottomRightRadius": {
+                                "type": "VARIABLE_ALIAS",
+                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                              },
+                              "fills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                }
+                              ]
+                            },
                             "componentProperties": {
                               "Icon#1301:37": {
                                 "type": "INSTANCE_SWAP",
@@ -10609,6 +11316,14 @@
                                 "effectStyleId": "",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {
+                                  "fills": [
+                                    {
+                                      "type": "VARIABLE_ALIAS",
+                                      "id": "VariableID:6b9822ff5c59dac846ce89036b1ac0d67f555ae6/2349:1754"
+                                    }
+                                  ]
+                                },
                                 "order": 0
                               }
                             }
@@ -10726,6 +11441,14 @@
                         "overflowDirection": "NONE",
                         "exportSettings": [],
                         "reactions": [],
+                        "boundVariables": {
+                          "fills": [
+                            {
+                              "type": "VARIABLE_ALIAS",
+                              "id": "VariableID:9a1b003dae35c74ebac5bf9c20b1e85a3028f2e8/2349:1813"
+                            }
+                          ]
+                        },
                         "order": 6
                       },
                       "children": [
@@ -10818,6 +11541,14 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {
+                              "fills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:f7b1737d2f06f0e2c37ab5cfde2f293534dc6226/2349:1815"
+                                }
+                              ]
+                            },
                             "order": 0
                           },
                           "children": [
@@ -10911,6 +11642,14 @@
                                 "effectStyleId": "",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {
+                                  "fills": [
+                                    {
+                                      "type": "VARIABLE_ALIAS",
+                                      "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                    }
+                                  ]
+                                },
                                 "order": 0
                               }
                             }
@@ -10988,6 +11727,7 @@
                             "overflowDirection": "NONE",
                             "exportSettings": [],
                             "reactions": [],
+                            "boundVariables": {},
                             "order": 1
                           },
                           "children": [
@@ -11063,6 +11803,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 0
                               },
                               "children": [
@@ -11156,6 +11897,14 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {
+                                      "fills": [
+                                        {
+                                          "type": "VARIABLE_ALIAS",
+                                          "id": "VariableID:d5fadf2b7742a44c231ece27236795ee8dbfb353/2349:1608"
+                                        }
+                                      ]
+                                    },
                                     "order": 0
                                   },
                                   "children": [
@@ -11244,6 +11993,7 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {},
                                         "order": 0
                                       },
                                       "children": [
@@ -11313,6 +12063,7 @@
                                             ],
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {},
                                             "order": 0
                                           }
                                         }
@@ -11392,6 +12143,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 1
                                   },
                                   "children": [
@@ -11485,6 +12237,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       }
                                     },
@@ -11578,6 +12338,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                            }
+                                          ]
+                                        },
                                         "order": 1
                                       }
                                     },
@@ -11671,6 +12439,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ]
+                                        },
                                         "order": 2
                                       }
                                     },
@@ -11764,6 +12540,14 @@
                                         "effectStyleId": "",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                            }
+                                          ]
+                                        },
                                         "order": 3
                                       }
                                     }
@@ -11843,6 +12627,7 @@
                                 "overflowDirection": "NONE",
                                 "exportSettings": [],
                                 "reactions": [],
+                                "boundVariables": {},
                                 "order": 1
                               },
                               "children": [
@@ -11918,6 +12703,7 @@
                                     "overflowDirection": "NONE",
                                     "exportSettings": [],
                                     "reactions": [],
+                                    "boundVariables": {},
                                     "order": 0
                                   },
                                   "children": [
@@ -12011,6 +12797,14 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {
+                                          "fills": [
+                                            {
+                                              "type": "VARIABLE_ALIAS",
+                                              "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                            }
+                                          ]
+                                        },
                                         "order": 0
                                       },
                                       "children": [
@@ -12099,6 +12893,7 @@
                                             "overflowDirection": "NONE",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {},
                                             "order": 0
                                           },
                                           "children": [
@@ -12168,6 +12963,7 @@
                                                 ],
                                                 "exportSettings": [],
                                                 "reactions": [],
+                                                "boundVariables": {},
                                                 "order": 0
                                               }
                                             }
@@ -12247,6 +13043,7 @@
                                         "overflowDirection": "NONE",
                                         "exportSettings": [],
                                         "reactions": [],
+                                        "boundVariables": {},
                                         "order": 1
                                       },
                                       "children": [
@@ -12340,6 +13137,14 @@
                                             "effectStyleId": "",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {
+                                              "fills": [
+                                                {
+                                                  "type": "VARIABLE_ALIAS",
+                                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                                }
+                                              ]
+                                            },
                                             "order": 0
                                           }
                                         },
@@ -12433,6 +13238,14 @@
                                             "effectStyleId": "",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {
+                                              "fills": [
+                                                {
+                                                  "type": "VARIABLE_ALIAS",
+                                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                                }
+                                              ]
+                                            },
                                             "order": 1
                                           }
                                         },
@@ -12526,6 +13339,50 @@
                                             "overflowDirection": "NONE",
                                             "exportSettings": [],
                                             "reactions": [],
+                                            "boundVariables": {
+                                              "itemSpacing": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:ecd4f6f7797d49928260f4f4a5248654660ae304/91:108"
+                                              },
+                                              "paddingLeft": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:e014485a816504eac732fabd53f8316bd10ab1fc/2224:10"
+                                              },
+                                              "paddingTop": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:a91cc7bc51fd26d39aa74710401e76b57b6ad7b4/2224:9"
+                                              },
+                                              "paddingRight": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:e014485a816504eac732fabd53f8316bd10ab1fc/2224:10"
+                                              },
+                                              "paddingBottom": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:a91cc7bc51fd26d39aa74710401e76b57b6ad7b4/2224:9"
+                                              },
+                                              "topLeftRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "topRightRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "bottomLeftRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "bottomRightRadius": {
+                                                "type": "VARIABLE_ALIAS",
+                                                "id": "VariableID:764c604172ab8b14f16b25d4d1c3d9f3a5385b0c/2189:2"
+                                              },
+                                              "fills": [
+                                                {
+                                                  "type": "VARIABLE_ALIAS",
+                                                  "id": "VariableID:2626b768c1493fd549eb24cec726d9712291f96e/2349:1755"
+                                                }
+                                              ]
+                                            },
                                             "componentProperties": {
                                               "Icon#1301:37": {
                                                 "type": "INSTANCE_SWAP",
@@ -12717,6 +13574,14 @@
                                                 "effectStyleId": "",
                                                 "exportSettings": [],
                                                 "reactions": [],
+                                                "boundVariables": {
+                                                  "fills": [
+                                                    {
+                                                      "type": "VARIABLE_ALIAS",
+                                                      "id": "VariableID:6b9822ff5c59dac846ce89036b1ac0d67f555ae6/2349:1754"
+                                                    }
+                                                  ]
+                                                },
                                                 "order": 0
                                               }
                                             }
