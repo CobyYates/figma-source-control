@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "fileName": "Main",
   "fileKey": "",
-  "generatedAt": "2026-06-11T19:39:48.972Z",
+  "generatedAt": "2026-06-11T19:42:51.323Z",
   "branch": "main",
   "status": "in_progress",
   "project": "refinance",
@@ -49,7 +49,7 @@
             "y": -377,
             "rotation": 0,
             "width": 1440,
-            "height": 1324,
+            "height": 1804,
             "minWidth": null,
             "maxWidth": null,
             "minHeight": null,
@@ -1137,9 +1137,9 @@
                         "gradientStops": [
                           {
                             "color": {
-                              "r": 0.09803921729326248,
-                              "g": 0.4627451002597809,
-                              "b": 0.8235294222831726,
+                              "r": 0.8085374236106873,
+                              "g": 0.8085374236106873,
+                              "b": 0.8085374236106873,
                               "a": 1
                             },
                             "position": 0,
@@ -1147,18 +1147,13 @@
                           },
                           {
                             "color": {
-                              "r": 0.25882354378700256,
-                              "g": 0.6470588445663452,
-                              "b": 0.9607843160629272,
+                              "r": 0.13713271915912628,
+                              "g": 0.227102130651474,
+                              "b": 0.2998046875,
                               "a": 1
                             },
                             "position": 1,
-                            "boundVariables": {
-                              "color": {
-                                "type": "VARIABLE_ALIAS",
-                                "id": "VariableID:cee00e1f4ec370d2300d53e3110ec8459b2b9cee/91:27"
-                              }
-                            }
+                            "boundVariables": {}
                           }
                         ],
                         "gradientTransform": [
@@ -1196,14 +1191,7 @@
                     "overflowDirection": "NONE",
                     "exportSettings": [],
                     "reactions": [],
-                    "boundVariables": {
-                      "fills": [
-                        {
-                          "type": "VARIABLE_ALIAS",
-                          "id": "VariableID:cee00e1f4ec370d2300d53e3110ec8459b2b9cee/91:27"
-                        }
-                      ]
-                    },
+                    "boundVariables": {},
                     "componentProperties": {},
                     "order": 1,
                     "componentKey": "b1cd17a6871f05170cd7a0521429da11018e6b70"
@@ -1349,7 +1337,7 @@
                 "y": 116,
                 "rotation": 0,
                 "width": 1440,
-                "height": 1208,
+                "height": 1688,
                 "minWidth": null,
                 "maxWidth": null,
                 "minHeight": null,
@@ -1421,7 +1409,7 @@
                     "counterAxisSizingMode": "FIXED",
                     "primaryAxisAlignItems": "MIN",
                     "counterAxisAlignItems": "CENTER",
-                    "itemSpacing": 40,
+                    "itemSpacing": 120,
                     "counterAxisSpacing": 0,
                     "itemReverseZIndex": false,
                     "strokesIncludedInLayout": false,
@@ -1438,7 +1426,7 @@
                     "y": 64.00006103515625,
                     "rotation": 0,
                     "width": 823,
-                    "height": 1084,
+                    "height": 1564,
                     "minWidth": null,
                     "maxWidth": null,
                     "minHeight": null,
@@ -3725,7 +3713,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 112,
+                        "y": 192,
                         "rotation": 0,
                         "width": 823,
                         "height": 84,
@@ -3772,7 +3760,7 @@
                         {
                           "vcId": "vc_mq72o8hs_a_kjuh52",
                           "figmaId": "10:1782",
-                          "name": "Tell us about your <Make & Model>",
+                          "name": "Testing text change",
                           "type": "TEXT",
                           "props": {
                             "visible": true,
@@ -3781,7 +3769,7 @@
                             "blendMode": "PASS_THROUGH",
                             "isMask": false,
                             "maskType": "ALPHA",
-                            "characters": "Tell us about your <Make & Model>",
+                            "characters": "Testing text change",
                             "fontSize": 33,
                             "fontName": {
                               "family": "Inter",
@@ -3814,10 +3802,10 @@
                             "layoutPositioning": "AUTO",
                             "layoutSizingHorizontal": "HUG",
                             "layoutSizingVertical": "HUG",
-                            "x": 125.5,
+                            "x": 249,
                             "y": 0,
                             "rotation": 0,
-                            "width": 572,
+                            "width": 325,
                             "height": 24,
                             "minWidth": null,
                             "maxWidth": null,
@@ -3924,25 +3912,6 @@
                               "horizontal": "MIN",
                               "vertical": "MIN"
                             },
-                            "fills": [
-                              {
-                                "type": "SOLID",
-                                "visible": true,
-                                "opacity": 1,
-                                "blendMode": "NORMAL",
-                                "color": {
-                                  "r": 0.11764705926179886,
-                                  "g": 0.16078431904315948,
-                                  "b": 0.23137255012989044
-                                },
-                                "boundVariables": {
-                                  "color": {
-                                    "type": "VARIABLE_ALIAS",
-                                    "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
-                                  }
-                                }
-                              }
-                            ],
                             "fillStyleId": "",
                             "strokes": [],
                             "strokeStyleId": "",
@@ -3958,6 +3927,16 @@
                             "reactions": [],
                             "boundVariables": {
                               "fills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                }
+                              ],
+                              "textRangeFills": [
+                                {
+                                  "type": "VARIABLE_ALIAS",
+                                  "id": "VariableID:02ddcbf91969bcfdc33d527bd90799ed65bd46d2/6013:13"
+                                },
                                 {
                                   "type": "VARIABLE_ALIAS",
                                   "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
@@ -4012,8 +3991,100 @@
                                 "hyperlink": null
                               },
                               {
-                                "characters": "we will also need a photo of your odometer",
+                                "characters": "we will also nee",
                                 "start": 143,
+                                "end": 159,
+                                "fontSize": 16,
+                                "fontName": {
+                                  "family": "Inter",
+                                  "style": "Bold"
+                                },
+                                "textDecoration": "NONE",
+                                "textCase": "ORIGINAL",
+                                "lineHeight": {
+                                  "unit": "PIXELS",
+                                  "value": 24
+                                },
+                                "letterSpacing": {
+                                  "unit": "PIXELS",
+                                  "value": 0
+                                },
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "visible": true,
+                                    "opacity": 1,
+                                    "blendMode": "NORMAL",
+                                    "color": {
+                                      "r": 0.11764705926179886,
+                                      "g": 0.16078431904315948,
+                                      "b": 0.23137255012989044
+                                    },
+                                    "boundVariables": {
+                                      "color": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:d222fee6ac35a80e8db960450a97dd43eff75075/2349:1739"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "textStyleId": "S:e54a6a7a1b71d0dbf1de7d70cfb41f4df8d62855,1042:110",
+                                "fillStyleId": "",
+                                "listOptions": {
+                                  "type": "NONE"
+                                },
+                                "indentation": 0,
+                                "hyperlink": null
+                              },
+                              {
+                                "characters": "d a photo of your o",
+                                "start": 159,
+                                "end": 178,
+                                "fontSize": 16,
+                                "fontName": {
+                                  "family": "Inter",
+                                  "style": "Bold"
+                                },
+                                "textDecoration": "NONE",
+                                "textCase": "ORIGINAL",
+                                "lineHeight": {
+                                  "unit": "PIXELS",
+                                  "value": 24
+                                },
+                                "letterSpacing": {
+                                  "unit": "PIXELS",
+                                  "value": 0
+                                },
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "visible": true,
+                                    "opacity": 1,
+                                    "blendMode": "NORMAL",
+                                    "color": {
+                                      "r": 1,
+                                      "g": 0.21960784494876862,
+                                      "b": 0.23529411852359772
+                                    },
+                                    "boundVariables": {
+                                      "color": {
+                                        "type": "VARIABLE_ALIAS",
+                                        "id": "VariableID:02ddcbf91969bcfdc33d527bd90799ed65bd46d2/6013:13"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "textStyleId": "S:e54a6a7a1b71d0dbf1de7d70cfb41f4df8d62855,1042:110",
+                                "fillStyleId": "",
+                                "listOptions": {
+                                  "type": "NONE"
+                                },
+                                "indentation": 0,
+                                "hyperlink": null
+                              },
+                              {
+                                "characters": "dometer",
+                                "start": 178,
                                 "end": 185,
                                 "fontSize": 16,
                                 "fontName": {
@@ -4141,7 +4212,7 @@
                         "layoutSizingHorizontal": "FIXED",
                         "layoutSizingVertical": "HUG",
                         "x": 26.5,
-                        "y": 236,
+                        "y": 396,
                         "rotation": 0,
                         "width": 770,
                         "height": 61,
@@ -4905,7 +4976,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 337,
+                        "y": 577,
                         "rotation": 0,
                         "width": 823,
                         "height": 262,
@@ -7931,7 +8002,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 639,
+                        "y": 959,
                         "rotation": 0,
                         "width": 823,
                         "height": 139,
@@ -10555,7 +10626,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 818,
+                        "y": 1218,
                         "rotation": 0,
                         "width": 823,
                         "height": 48,
@@ -11363,7 +11434,7 @@
                         "layoutSizingHorizontal": "HUG",
                         "layoutSizingVertical": "HUG",
                         "x": 17,
-                        "y": 906,
+                        "y": 1386,
                         "rotation": 0,
                         "width": 789,
                         "height": 178,
