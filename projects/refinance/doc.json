@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "fileName": "Main",
   "fileKey": "",
-  "generatedAt": "2026-06-11T19:42:51.323Z",
+  "generatedAt": "2026-06-11T19:54:39.276Z",
   "branch": "main",
   "status": "in_progress",
   "project": "refinance",
@@ -16,7 +16,7 @@
       "children": [
         {
           "vcId": "vc_mq72o8h6_1_0jx23d",
-          "figmaId": "10:1767",
+          "figmaId": "19:421",
           "name": "03-vehicle-details-desktop",
           "type": "FRAME",
           "props": {
@@ -41,11 +41,11 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "layoutAlign": "INHERIT",
-            "layoutGrow": 1,
+            "layoutGrow": 0,
             "layoutPositioning": "AUTO",
             "layoutSizingHorizontal": "FIXED",
             "layoutSizingVertical": "HUG",
-            "x": 45,
+            "x": 1525,
             "y": -377,
             "rotation": 0,
             "width": 1440,
@@ -99,7 +99,7 @@
           "children": [
             {
               "vcId": "vc_mq72o8h9_2_kd7jvi",
-              "figmaId": "10:1768",
+              "figmaId": "19:422",
               "name": "Frame 721",
               "type": "FRAME",
               "props": {
@@ -175,7 +175,7 @@
               "children": [
                 {
                   "vcId": "vc_mq72o8jx_1o_hckz5i",
-                  "figmaId": "10:1769",
+                  "figmaId": "19:423",
                   "name": "header",
                   "type": "INSTANCE",
                   "props": {
@@ -266,7 +266,7 @@
                   "children": [
                     {
                       "vcId": "vc_mq72o8m6_3c_1996c3",
-                      "figmaId": "I10:1769;1:12267",
+                      "figmaId": "I19:423;1:12267",
                       "name": "Arivo-Logo-full_color",
                       "type": "INSTANCE",
                       "props": {
@@ -357,7 +357,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8m7_3d_t8ijw6",
-                          "figmaId": "I10:1769;1:12267;127:2319",
+                          "figmaId": "I19:423;1:12267;127:2319",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -427,7 +427,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8m8_3e_5hs2ao",
-                          "figmaId": "I10:1769;1:12267;127:2320",
+                          "figmaId": "I19:423;1:12267;127:2320",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -497,7 +497,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8m9_3f_owk7rq",
-                          "figmaId": "I10:1769;1:12267;127:2321",
+                          "figmaId": "I19:423;1:12267;127:2321",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -567,7 +567,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8ma_3g_bi6eby",
-                          "figmaId": "I10:1769;1:12267;127:2322",
+                          "figmaId": "I19:423;1:12267;127:2322",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -637,7 +637,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8mb_3h_qaziyu",
-                          "figmaId": "I10:1769;1:12267;127:2323",
+                          "figmaId": "I19:423;1:12267;127:2323",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -707,7 +707,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8mb_3i_kpkll5",
-                          "figmaId": "I10:1769;1:12267;127:2324",
+                          "figmaId": "I19:423;1:12267;127:2324",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -835,7 +835,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8mc_3j_kqu9jt",
-                          "figmaId": "I10:1769;1:12267;127:2325",
+                          "figmaId": "I19:423;1:12267;127:2325",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -905,7 +905,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8md_3k_b6a1ro",
-                          "figmaId": "I10:1769;1:12267;127:2326",
+                          "figmaId": "I19:423;1:12267;127:2326",
                           "name": "Vector",
                           "type": "VECTOR",
                           "props": {
@@ -977,7 +977,7 @@
                     },
                     {
                       "vcId": "vc_mq72o8k2_1p_gr4ywd",
-                      "figmaId": "I10:1769;1:12277",
+                      "figmaId": "I19:423;1:12277",
                       "name": "26,000 customers proudly served since 2017",
                       "type": "TEXT",
                       "props": {
@@ -1080,7 +1080,7 @@
                 },
                 {
                   "vcId": "vc_mq72o8k2_1q_xitcy8",
-                  "figmaId": "10:1770",
+                  "figmaId": "19:424",
                   "name": "cta",
                   "type": "INSTANCE",
                   "props": {
@@ -1199,7 +1199,7 @@
                   "children": [
                     {
                       "vcId": "vc_mq72o8k4_1r_eh0fy9",
-                      "figmaId": "I10:1770;1:12282",
+                      "figmaId": "I19:424;1:12282",
                       "name": "No impact on your credit score No payment for 45 days Top-tier customer support",
                       "type": "TEXT",
                       "props": {
@@ -1304,7 +1304,7 @@
             },
             {
               "vcId": "vc_mq72o8hf_3_2m916s",
-              "figmaId": "10:1771",
+              "figmaId": "19:425",
               "name": "body",
               "type": "FRAME",
               "props": {
@@ -1393,7 +1393,7 @@
               "children": [
                 {
                   "vcId": "vc_mq72o8hg_4_tf7rl8",
-                  "figmaId": "10:1772",
+                  "figmaId": "19:426",
                   "name": "body-content",
                   "type": "FRAME",
                   "props": {
@@ -1469,7 +1469,7 @@
                   "children": [
                     {
                       "vcId": "vc_mq72o8hg_5_j36c5t",
-                      "figmaId": "10:1773",
+                      "figmaId": "19:427",
                       "name": "v-stepper",
                       "type": "FRAME",
                       "props": {
@@ -1545,7 +1545,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8k4_1s_iby3xz",
-                          "figmaId": "10:1774",
+                          "figmaId": "19:428",
                           "name": "v-stepper-item",
                           "type": "INSTANCE",
                           "props": {
@@ -1634,7 +1634,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8k5_1t_jx0a27",
-                              "figmaId": "I10:1774;680:516",
+                              "figmaId": "I19:428;680:516",
                               "name": "v-stepper-item-content",
                               "type": "FRAME",
                               "props": {
@@ -1710,7 +1710,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8k6_1u_3g8wd3",
-                                  "figmaId": "I10:1774;680:517",
+                                  "figmaId": "I19:428;680:517",
                                   "name": "Vector",
                                   "type": "VECTOR",
                                   "props": {
@@ -1792,7 +1792,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8k8_1v_tbyazt",
-                                  "figmaId": "I10:1774;680:518",
+                                  "figmaId": "I19:428;680:518",
                                   "name": "Step1",
                                   "type": "TEXT",
                                   "props": {
@@ -1897,7 +1897,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8hj_6_vyptyv",
-                          "figmaId": "10:1775",
+                          "figmaId": "19:429",
                           "name": "v-divider",
                           "type": "LINE",
                           "props": {
@@ -1970,7 +1970,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8k9_1w_ug5vuf",
-                          "figmaId": "10:1776",
+                          "figmaId": "19:430",
                           "name": "v-stepper-item",
                           "type": "INSTANCE",
                           "props": {
@@ -2059,7 +2059,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8ka_1x_k7crqd",
-                              "figmaId": "I10:1776;680:510",
+                              "figmaId": "I19:430;680:510",
                               "name": "v-stepper-item-content",
                               "type": "FRAME",
                               "props": {
@@ -2135,7 +2135,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8kb_1y_mjqqpw",
-                                  "figmaId": "I10:1776;680:511",
+                                  "figmaId": "I19:430;680:511",
                                   "name": "Group 1",
                                   "type": "GROUP",
                                   "props": {
@@ -2169,7 +2169,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8me_3l_nni7lq",
-                                      "figmaId": "I10:1776;680:512",
+                                      "figmaId": "I19:430;680:512",
                                       "name": "v-avatar",
                                       "type": "INSTANCE",
                                       "props": {
@@ -2284,7 +2284,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8ke_1z_r5csm7",
-                                      "figmaId": "I10:1776;680:513",
+                                      "figmaId": "I19:430;680:513",
                                       "name": "2",
                                       "type": "TEXT",
                                       "props": {
@@ -2387,7 +2387,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8kf_20_r4vjye",
-                                  "figmaId": "I10:1776;680:514",
+                                  "figmaId": "I19:430;680:514",
                                   "name": "Step2",
                                   "type": "TEXT",
                                   "props": {
@@ -2492,7 +2492,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8hl_7_4z0688",
-                          "figmaId": "10:1777",
+                          "figmaId": "19:431",
                           "name": "v-divider",
                           "type": "LINE",
                           "props": {
@@ -2565,7 +2565,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8kg_21_39pinv",
-                          "figmaId": "10:1778",
+                          "figmaId": "19:432",
                           "name": "v-stepper-item",
                           "type": "INSTANCE",
                           "props": {
@@ -2654,7 +2654,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8ki_22_a61kp5",
-                              "figmaId": "I10:1778;680:520",
+                              "figmaId": "I19:432;680:520",
                               "name": "v-stepper-item-content",
                               "type": "FRAME",
                               "props": {
@@ -2730,7 +2730,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8kj_23_hio0um",
-                                  "figmaId": "I10:1778;680:521",
+                                  "figmaId": "I19:432;680:521",
                                   "name": "Group 1",
                                   "type": "GROUP",
                                   "props": {
@@ -2764,7 +2764,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8mf_3m_flvuxa",
-                                      "figmaId": "I10:1778;680:522",
+                                      "figmaId": "I19:432;680:522",
                                       "name": "v-avatar",
                                       "type": "INSTANCE",
                                       "props": {
@@ -2879,7 +2879,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8kl_24_i6j082",
-                                      "figmaId": "I10:1778;680:523",
+                                      "figmaId": "I19:432;680:523",
                                       "name": "3",
                                       "type": "TEXT",
                                       "props": {
@@ -2982,7 +2982,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8kn_25_i6zjfs",
-                                  "figmaId": "I10:1778;680:524",
+                                  "figmaId": "I19:432;680:524",
                                   "name": "Sign documents",
                                   "type": "TEXT",
                                   "props": {
@@ -3087,7 +3087,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8hn_8_98ktoy",
-                          "figmaId": "10:1779",
+                          "figmaId": "19:433",
                           "name": "v-divider",
                           "type": "LINE",
                           "props": {
@@ -3160,7 +3160,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8ko_26_hijpl4",
-                          "figmaId": "10:1780",
+                          "figmaId": "19:434",
                           "name": "v-stepper-item",
                           "type": "INSTANCE",
                           "props": {
@@ -3249,7 +3249,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8kp_27_jif8d5",
-                              "figmaId": "I10:1780;680:520",
+                              "figmaId": "I19:434;680:520",
                               "name": "v-stepper-item-content",
                               "type": "FRAME",
                               "props": {
@@ -3325,7 +3325,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8kq_28_zbbjmw",
-                                  "figmaId": "I10:1780;680:521",
+                                  "figmaId": "I19:434;680:521",
                                   "name": "Group 1",
                                   "type": "GROUP",
                                   "props": {
@@ -3359,7 +3359,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8mh_3n_3yhlxd",
-                                      "figmaId": "I10:1780;680:522",
+                                      "figmaId": "I19:434;680:522",
                                       "name": "v-avatar",
                                       "type": "INSTANCE",
                                       "props": {
@@ -3473,7 +3473,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8ks_29_gasxbw",
-                                      "figmaId": "I10:1780;680:523",
+                                      "figmaId": "I19:434;680:523",
                                       "name": "3",
                                       "type": "TEXT",
                                       "props": {
@@ -3576,7 +3576,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8kt_2a_uis76u",
-                                  "figmaId": "I10:1780;680:524",
+                                  "figmaId": "I19:434;680:524",
                                   "name": "Step3",
                                   "type": "TEXT",
                                   "props": {
@@ -3683,7 +3683,7 @@
                     },
                     {
                       "vcId": "vc_mq72o8hq_9_g91vhb",
-                      "figmaId": "10:1781",
+                      "figmaId": "19:435",
                       "name": "Frame 699",
                       "type": "FRAME",
                       "props": {
@@ -3759,7 +3759,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8hs_a_kjuh52",
-                          "figmaId": "10:1782",
+                          "figmaId": "19:436",
                           "name": "Testing text change",
                           "type": "TEXT",
                           "props": {
@@ -3860,7 +3860,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8hv_b_9c9w0y",
-                          "figmaId": "10:1783",
+                          "figmaId": "19:437",
                           "name": "If you don’t know your license plate by heart, it’s ok, we don’t know ours either. Just a heads up as you head out to get your license plate, we will also need a photo of your odometer while you’re there.",
                           "type": "TEXT",
                           "props": {
@@ -4182,7 +4182,7 @@
                     },
                     {
                       "vcId": "vc_mq72o8hw_c_v4iozo",
-                      "figmaId": "10:1784",
+                      "figmaId": "19:438",
                       "name": "savings-banner",
                       "type": "FRAME",
                       "props": {
@@ -4271,7 +4271,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8hx_d_wzc1vy",
-                          "figmaId": "10:1785",
+                          "figmaId": "19:439",
                           "name": "Frame 2610892",
                           "type": "FRAME",
                           "props": {
@@ -4347,7 +4347,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8hy_e_h1fjzi",
-                              "figmaId": "10:1786",
+                              "figmaId": "19:440",
                               "name": "Frame 2610976",
                               "type": "FRAME",
                               "props": {
@@ -4423,7 +4423,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8hz_f_i5a1a5",
-                                  "figmaId": "10:1787",
+                                  "figmaId": "19:441",
                                   "name": "Refinancing could save you",
                                   "type": "TEXT",
                                   "props": {
@@ -4524,7 +4524,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8i0_g_rdgybp",
-                                  "figmaId": "10:1788",
+                                  "figmaId": "19:442",
                                   "name": "Frame 2610977",
                                   "type": "FRAME",
                                   "props": {
@@ -4600,7 +4600,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8i1_h_hx6rzt",
-                                      "figmaId": "10:1789",
+                                      "figmaId": "19:443",
                                       "name": "$223.23/month. That’s $2,676.23/year!",
                                       "type": "TEXT",
                                       "props": {
@@ -4843,7 +4843,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8i2_i_k3jc16",
-                          "figmaId": "10:1790",
+                          "figmaId": "19:444",
                           "name": "Based on an estimated APR of 12.34%",
                           "type": "TEXT",
                           "props": {
@@ -4946,7 +4946,7 @@
                     },
                     {
                       "vcId": "vc_mq72o8i3_j_nwv4wx",
-                      "figmaId": "10:1791",
+                      "figmaId": "19:445",
                       "name": "forms",
                       "type": "FRAME",
                       "props": {
@@ -5022,7 +5022,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8i4_k_707rq2",
-                          "figmaId": "10:1792",
+                          "figmaId": "19:446",
                           "name": "license",
                           "type": "FRAME",
                           "props": {
@@ -5098,7 +5098,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8ku_2b_cdppru",
-                              "figmaId": "10:1793",
+                              "figmaId": "19:447",
                               "name": "v-text-field",
                               "type": "INSTANCE",
                               "props": {
@@ -5273,7 +5273,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8kv_2c_tdqulp",
-                                  "figmaId": "I10:1793;282:14517",
+                                  "figmaId": "I19:447;282:14517",
                                   "name": "input _ slot",
                                   "type": "FRAME",
                                   "props": {
@@ -5403,7 +5403,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8kx_2d_ws597q",
-                                      "figmaId": "I10:1793;282:14518",
+                                      "figmaId": "I19:447;282:14518",
                                       "name": "Outlined style",
                                       "type": "TEXT",
                                       "props": {
@@ -5508,7 +5508,7 @@
                             },
                             {
                               "vcId": "vc_mq72o8ky_2e_djm0vj",
-                              "figmaId": "10:1794",
+                              "figmaId": "19:448",
                               "name": "v-select",
                               "type": "INSTANCE",
                               "props": {
@@ -5625,7 +5625,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8kz_2f_z2gke6",
-                                  "figmaId": "I10:1794;279:9374",
+                                  "figmaId": "I19:448;279:9374",
                                   "name": "input _ slot",
                                   "type": "FRAME",
                                   "props": {
@@ -5755,7 +5755,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8l1_2g_v6nwkc",
-                                      "figmaId": "I10:1794;279:9375",
+                                      "figmaId": "I19:448;279:9375",
                                       "name": "Select an option",
                                       "type": "TEXT",
                                       "props": {
@@ -5856,7 +5856,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8l2_2h_vtbcst",
-                                      "figmaId": "I10:1794;279:9376",
+                                      "figmaId": "I19:448;279:9376",
                                       "name": "menu-down",
                                       "type": "FRAME",
                                       "props": {
@@ -5945,7 +5945,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8l2_2i_vqeny1",
-                                          "figmaId": "I10:1794;279:9377",
+                                          "figmaId": "I19:448;279:9377",
                                           "name": "Vector",
                                           "type": "VECTOR",
                                           "props": {
@@ -6035,7 +6035,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8ia_l_oj0jmt",
-                          "figmaId": "10:1795",
+                          "figmaId": "19:449",
                           "name": "Frame 2611022",
                           "type": "FRAME",
                           "props": {
@@ -6160,7 +6160,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8ib_m_fsj02x",
-                              "figmaId": "10:1796",
+                              "figmaId": "19:450",
                               "name": "Frame 695",
                               "type": "FRAME",
                               "props": {
@@ -6236,7 +6236,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8ic_n_7xxhk6",
-                                  "figmaId": "10:1797",
+                                  "figmaId": "19:451",
                                   "name": "mileage",
                                   "type": "FRAME",
                                   "props": {
@@ -6312,7 +6312,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8l3_2j_xsiuo0",
-                                      "figmaId": "10:1798",
+                                      "figmaId": "19:452",
                                       "name": "v-text-field",
                                       "type": "INSTANCE",
                                       "props": {
@@ -6487,7 +6487,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8l4_2k_28ywk3",
-                                          "figmaId": "I10:1798;282:14517",
+                                          "figmaId": "I19:452;282:14517",
                                           "name": "input _ slot",
                                           "type": "FRAME",
                                           "props": {
@@ -6617,7 +6617,7 @@
                                           "children": [
                                             {
                                               "vcId": "vc_mq72o8l6_2l_mi476a",
-                                              "figmaId": "I10:1798;282:14518",
+                                              "figmaId": "I19:452;282:14518",
                                               "name": "Outlined style",
                                               "type": "TEXT",
                                               "props": {
@@ -6722,7 +6722,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8l7_2m_31p3x9",
-                                      "figmaId": "10:1799",
+                                      "figmaId": "19:453",
                                       "name": "v-text-field",
                                       "type": "INSTANCE",
                                       "props": {
@@ -6897,7 +6897,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8l8_2n_wfmh1t",
-                                          "figmaId": "I10:1799;282:14517",
+                                          "figmaId": "I19:453;282:14517",
                                           "name": "input _ slot",
                                           "type": "FRAME",
                                           "props": {
@@ -7027,7 +7027,7 @@
                                           "children": [
                                             {
                                               "vcId": "vc_mq72o8l9_2o_xkhcdy",
-                                              "figmaId": "I10:1799;282:14518",
+                                              "figmaId": "I19:453;282:14518",
                                               "name": "Outlined style",
                                               "type": "TEXT",
                                               "props": {
@@ -7134,7 +7134,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8ig_o_5m9x6s",
-                                  "figmaId": "10:1800",
+                                  "figmaId": "19:454",
                                   "name": "Frame 2610776",
                                   "type": "FRAME",
                                   "props": {
@@ -7210,7 +7210,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8ih_p_ss6tjv",
-                                      "figmaId": "10:1801",
+                                      "figmaId": "19:455",
                                       "name": "* Mileage entered must match your odometer. Discrepancy in mileage may impact approval.",
                                       "type": "TEXT",
                                       "props": {
@@ -7321,7 +7321,7 @@
                             },
                             {
                               "vcId": "vc_mq72o8ii_q_kvyq6b",
-                              "figmaId": "10:1802",
+                              "figmaId": "19:456",
                               "name": "Frame 2610979",
                               "type": "FRAME",
                               "props": {
@@ -7414,7 +7414,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8ij_r_jht147",
-                                  "figmaId": "10:1803",
+                                  "figmaId": "19:457",
                                   "name": "Upload a photo of your car’s odometer",
                                   "type": "TEXT",
                                   "props": {
@@ -7515,7 +7515,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8ik_s_jjdj4g",
-                                  "figmaId": "10:1804",
+                                  "figmaId": "19:458",
                                   "name": "Primary Button",
                                   "type": "FRAME",
                                   "props": {
@@ -7616,7 +7616,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8il_t_o7a3tj",
-                                      "figmaId": "10:1805",
+                                      "figmaId": "19:459",
                                       "name": "Frame 671",
                                       "type": "FRAME",
                                       "props": {
@@ -7692,7 +7692,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8im_u_fnhqc5",
-                                          "figmaId": "10:1806",
+                                          "figmaId": "19:460",
                                           "name": "Upload photo",
                                           "type": "TEXT",
                                           "props": {
@@ -7781,7 +7781,7 @@
                                         },
                                         {
                                           "vcId": "vc_mq72o8l9_2p_hqgkl7",
-                                          "figmaId": "10:1807",
+                                          "figmaId": "19:461",
                                           "name": "icon-upload",
                                           "type": "INSTANCE",
                                           "props": {
@@ -7878,7 +7878,7 @@
                                           "children": [
                                             {
                                               "vcId": "vc_mq72o8lb_2q_rj0421",
-                                              "figmaId": "I10:1807;1043:573",
+                                              "figmaId": "I19:461;1043:573",
                                               "name": "Vector",
                                               "type": "VECTOR",
                                               "props": {
@@ -7972,7 +7972,7 @@
                     },
                     {
                       "vcId": "vc_mq72o8io_v_16duto",
-                      "figmaId": "10:1808",
+                      "figmaId": "19:462",
                       "name": "Frame 2610981",
                       "type": "FRAME",
                       "props": {
@@ -8073,7 +8073,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8ip_w_cc48ny",
-                          "figmaId": "10:1809",
+                          "figmaId": "19:463",
                           "name": "Frame 2610996",
                           "type": "FRAME",
                           "props": {
@@ -8149,7 +8149,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8iq_x_dyd55z",
-                              "figmaId": "10:1810",
+                              "figmaId": "19:464",
                               "name": "Frame 2610882",
                               "type": "FRAME",
                               "props": {
@@ -8225,7 +8225,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8iq_y_1rw56c",
-                                  "figmaId": "10:1811",
+                                  "figmaId": "19:465",
                                   "name": "Frame 2610893",
                                   "type": "FRAME",
                                   "props": {
@@ -8301,7 +8301,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8ir_z_tmg2fh",
-                                      "figmaId": "10:1812",
+                                      "figmaId": "19:466",
                                       "name": "This is your estimated payoff amount. If this amount is incorrect, please edit it here.",
                                       "type": "TEXT",
                                       "props": {
@@ -8402,7 +8402,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8is_10_9hwfhe",
-                                      "figmaId": "10:1813",
+                                      "figmaId": "19:467",
                                       "name": "*Note that if the amount is incorrect, you may need to sign a new contract. If you need to edit the payoff, please ensure the amount is at least a 10-day payoff.",
                                       "type": "TEXT",
                                       "props": {
@@ -8507,7 +8507,7 @@
                             },
                             {
                               "vcId": "vc_mq72o8lc_2r_eceqdz",
-                              "figmaId": "10:1814",
+                              "figmaId": "19:468",
                               "name": "v-text-field",
                               "type": "INSTANCE",
                               "props": {
@@ -8707,7 +8707,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8ld_2s_ah50st",
-                                  "figmaId": "I10:1814;596:5331",
+                                  "figmaId": "I19:468;596:5331",
                                   "name": "slot _ group",
                                   "type": "FRAME",
                                   "props": {
@@ -8783,7 +8783,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8le_2t_29yx8n",
-                                      "figmaId": "I10:1814;596:5332",
+                                      "figmaId": "I19:468;596:5332",
                                       "name": "input _ slot",
                                       "type": "FRAME",
                                       "props": {
@@ -8884,7 +8884,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8mi_3o_t8x5v2",
-                                          "figmaId": "I10:1814;1301:357",
+                                          "figmaId": "I19:468;1301:357",
                                           "name": "currency-usd",
                                           "type": "INSTANCE",
                                           "props": {
@@ -8975,7 +8975,7 @@
                                           "children": [
                                             {
                                               "vcId": "vc_mq72o8mj_3p_ak8can",
-                                              "figmaId": "I10:1814;1301:357;1737:2189",
+                                              "figmaId": "I19:468;1301:357;1737:2189",
                                               "name": "Vector",
                                               "type": "VECTOR",
                                               "props": {
@@ -9059,7 +9059,7 @@
                                         },
                                         {
                                           "vcId": "vc_mq72o8lg_2u_vbys8n",
-                                          "figmaId": "I10:1814;596:5333",
+                                          "figmaId": "I19:468;596:5333",
                                           "name": "Text",
                                           "type": "TEXT",
                                           "props": {
@@ -9160,7 +9160,7 @@
                                         },
                                         {
                                           "vcId": "vc_mq72o8lh_2v_ku5yqh",
-                                          "figmaId": "I10:1814;596:5334",
+                                          "figmaId": "I19:468;596:5334",
                                           "name": "close",
                                           "type": "FRAME",
                                           "props": {
@@ -9249,7 +9249,7 @@
                                           "children": [
                                             {
                                               "vcId": "vc_mq72o8li_2w_idrije",
-                                              "figmaId": "I10:1814;596:5335",
+                                              "figmaId": "I19:468;596:5335",
                                               "name": "Vector",
                                               "type": "VECTOR",
                                               "props": {
@@ -9337,7 +9337,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8lj_2x_o6k9s2",
-                                  "figmaId": "I10:1814;596:5336",
+                                  "figmaId": "I19:468;596:5336",
                                   "name": "label",
                                   "type": "FRAME",
                                   "props": {
@@ -9438,7 +9438,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8lk_2y_gyjtf3",
-                                      "figmaId": "I10:1814;596:5337",
+                                      "figmaId": "I19:468;596:5337",
                                       "name": "Outlined style",
                                       "type": "TEXT",
                                       "props": {
@@ -9545,7 +9545,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8iw_11_zet1kl",
-                          "figmaId": "10:1815",
+                          "figmaId": "19:469",
                           "name": "Frame 2610988",
                           "type": "FRAME",
                           "props": {
@@ -9621,7 +9621,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8ll_2z_f8g1ut",
-                              "figmaId": "10:1816",
+                              "figmaId": "19:470",
                               "name": "v-button",
                               "type": "INSTANCE",
                               "props": {
@@ -9653,7 +9653,7 @@
                                 "x": 0,
                                 "y": 0,
                                 "rotation": 0,
-                                "width": 91,
+                                "width": 76,
                                 "height": 36,
                                 "minWidth": null,
                                 "maxWidth": null,
@@ -9832,7 +9832,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8ln_30_d0y2o2",
-                                  "figmaId": "I10:1816;91:13811",
+                                  "figmaId": "I19:470;91:13811",
                                   "name": "Text",
                                   "type": "FRAME",
                                   "props": {
@@ -9862,10 +9862,10 @@
                                     "layoutSizingHorizontal": "HUG",
                                     "layoutSizingVertical": "HUG",
                                     "x": 8,
-                                    "y": 9.5,
+                                    "y": 9,
                                     "rotation": 0,
-                                    "width": 75,
-                                    "height": 17,
+                                    "width": 60,
+                                    "height": 18,
                                     "minWidth": null,
                                     "maxWidth": null,
                                     "minHeight": null,
@@ -9908,7 +9908,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8lo_31_ql8u7g",
-                                      "figmaId": "I10:1816;91:13812",
+                                      "figmaId": "I19:470;91:13812",
                                       "name": "↳ ✏️ Label",
                                       "type": "TEXT",
                                       "props": {
@@ -9954,8 +9954,8 @@
                                         "x": 6,
                                         "y": 4,
                                         "rotation": 0,
-                                        "width": 61,
-                                        "height": 9,
+                                        "width": 46,
+                                        "height": 10,
                                         "minWidth": null,
                                         "maxWidth": null,
                                         "minHeight": null,
@@ -10001,7 +10001,7 @@
                             },
                             {
                               "vcId": "vc_mq72o8lp_32_mm7edy",
-                              "figmaId": "10:1817",
+                              "figmaId": "19:471",
                               "name": "v-button",
                               "type": "INSTANCE",
                               "props": {
@@ -10236,7 +10236,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8ml_3q_3wk053",
-                                  "figmaId": "I10:1817;91:13769",
+                                  "figmaId": "I19:471;91:13769",
                                   "name": "↳ 📍icon ",
                                   "type": "INSTANCE",
                                   "props": {
@@ -10327,7 +10327,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8mm_3r_iweco6",
-                                      "figmaId": "I10:1817;91:13769;5:15470",
+                                      "figmaId": "I19:471;91:13769;5:15470",
                                       "name": "Vector",
                                       "type": "VECTOR",
                                       "props": {
@@ -10411,7 +10411,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8lr_33_7z1pci",
-                                  "figmaId": "I10:1817;91:13770",
+                                  "figmaId": "I19:471;91:13770",
                                   "name": "Text",
                                   "type": "FRAME",
                                   "props": {
@@ -10487,7 +10487,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8ls_34_wlxcpu",
-                                      "figmaId": "I10:1817;91:13771",
+                                      "figmaId": "I19:471;91:13771",
                                       "name": "↳ ✏️ Label",
                                       "type": "TEXT",
                                       "props": {
@@ -10596,7 +10596,7 @@
                     },
                     {
                       "vcId": "vc_mq72o8j1_12_vt203c",
-                      "figmaId": "10:1818",
+                      "figmaId": "19:472",
                       "name": "Frame 2610980",
                       "type": "FRAME",
                       "props": {
@@ -10672,7 +10672,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8lt_35_tas5bd",
-                          "figmaId": "10:1819",
+                          "figmaId": "19:473",
                           "name": "v-button",
                           "type": "INSTANCE",
                           "props": {
@@ -10883,7 +10883,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8lu_36_k6iq52",
-                              "figmaId": "I10:1819;91:13811",
+                              "figmaId": "I19:473;91:13811",
                               "name": "Text",
                               "type": "FRAME",
                               "props": {
@@ -10959,7 +10959,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8lv_37_e8apmr",
-                                  "figmaId": "I10:1819;91:13812",
+                                  "figmaId": "I19:473;91:13812",
                                   "name": "↳ ✏️ Label",
                                   "type": "TEXT",
                                   "props": {
@@ -11064,7 +11064,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8lw_38_gc66zt",
-                          "figmaId": "10:1820",
+                          "figmaId": "19:474",
                           "name": "v-button",
                           "type": "INSTANCE",
                           "props": {
@@ -11299,7 +11299,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8lx_39_j5ntpx",
-                              "figmaId": "I10:1820;91:13725",
+                              "figmaId": "I19:474;91:13725",
                               "name": "↳ ✏️ Label",
                               "type": "TEXT",
                               "props": {
@@ -11404,7 +11404,7 @@
                     },
                     {
                       "vcId": "vc_mq72o8j5_13_zk6gnx",
-                      "figmaId": "10:1821",
+                      "figmaId": "19:475",
                       "name": "contact-us",
                       "type": "FRAME",
                       "props": {
@@ -11525,7 +11525,7 @@
                       "children": [
                         {
                           "vcId": "vc_mq72o8j6_14_rv7jox",
-                          "figmaId": "10:1822",
+                          "figmaId": "19:476",
                           "name": "Frame 690",
                           "type": "FRAME",
                           "props": {
@@ -11625,7 +11625,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8j7_15_tk961p",
-                              "figmaId": "10:1823",
+                              "figmaId": "19:477",
                               "name": "Still have a question?",
                               "type": "TEXT",
                               "props": {
@@ -11728,7 +11728,7 @@
                         },
                         {
                           "vcId": "vc_mq72o8j7_16_ss8z1l",
-                          "figmaId": "10:1824",
+                          "figmaId": "19:478",
                           "name": "Frame 2610772",
                           "type": "FRAME",
                           "props": {
@@ -11804,7 +11804,7 @@
                           "children": [
                             {
                               "vcId": "vc_mq72o8j8_17_t8a1rx",
-                              "figmaId": "10:1825",
+                              "figmaId": "19:479",
                               "name": "Frame 692",
                               "type": "FRAME",
                               "props": {
@@ -11880,7 +11880,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8j9_18_o7wkyy",
-                                  "figmaId": "10:1826",
+                                  "figmaId": "19:480",
                                   "name": "Frame 320",
                                   "type": "FRAME",
                                   "props": {
@@ -11981,7 +11981,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8ja_19_ot6ee5",
-                                      "figmaId": "10:1827",
+                                      "figmaId": "19:481",
                                       "name": "cellphone",
                                       "type": "FRAME",
                                       "props": {
@@ -12070,7 +12070,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8jb_1a_63wlti",
-                                          "figmaId": "10:1828",
+                                          "figmaId": "19:482",
                                           "name": "Vector",
                                           "type": "VECTOR",
                                           "props": {
@@ -12144,7 +12144,7 @@
                                 },
                                 {
                                   "vcId": "vc_mq72o8jb_1b_t040iy",
-                                  "figmaId": "10:1829",
+                                  "figmaId": "19:483",
                                   "name": "Frame 692",
                                   "type": "FRAME",
                                   "props": {
@@ -12220,7 +12220,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8jc_1c_97r7j6",
-                                      "figmaId": "10:1830",
+                                      "figmaId": "19:484",
                                       "name": "Give us a call",
                                       "type": "TEXT",
                                       "props": {
@@ -12321,7 +12321,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8jd_1d_u1txvp",
-                                      "figmaId": "10:1831",
+                                      "figmaId": "19:485",
                                       "name": "(801) 993-0440",
                                       "type": "TEXT",
                                       "props": {
@@ -12422,7 +12422,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8je_1e_w3xrxc",
-                                      "figmaId": "10:1832",
+                                      "figmaId": "19:486",
                                       "name": "Para español, oprima el dos",
                                       "type": "TEXT",
                                       "props": {
@@ -12523,7 +12523,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8je_1f_sqia83",
-                                      "figmaId": "10:1833",
+                                      "figmaId": "19:487",
                                       "name": "Monday through Friday 8am-5pm MDT",
                                       "type": "TEXT",
                                       "props": {
@@ -12628,7 +12628,7 @@
                             },
                             {
                               "vcId": "vc_mq72o8jf_1g_apuc44",
-                              "figmaId": "10:1834",
+                              "figmaId": "19:488",
                               "name": "Frame 696",
                               "type": "FRAME",
                               "props": {
@@ -12704,7 +12704,7 @@
                               "children": [
                                 {
                                   "vcId": "vc_mq72o8jg_1h_2cruu8",
-                                  "figmaId": "10:1835",
+                                  "figmaId": "19:489",
                                   "name": "Frame 692",
                                   "type": "FRAME",
                                   "props": {
@@ -12780,7 +12780,7 @@
                                   "children": [
                                     {
                                       "vcId": "vc_mq72o8jh_1i_cfmbey",
-                                      "figmaId": "10:1836",
+                                      "figmaId": "19:490",
                                       "name": "Frame 320",
                                       "type": "FRAME",
                                       "props": {
@@ -12881,7 +12881,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8jh_1j_8b62xh",
-                                          "figmaId": "10:1837",
+                                          "figmaId": "19:491",
                                           "name": "cellphone",
                                           "type": "FRAME",
                                           "props": {
@@ -12970,7 +12970,7 @@
                                           "children": [
                                             {
                                               "vcId": "vc_mq72o8ji_1k_e9ymo9",
-                                              "figmaId": "10:1838",
+                                              "figmaId": "19:492",
                                               "name": "Vector",
                                               "type": "VECTOR",
                                               "props": {
@@ -13044,7 +13044,7 @@
                                     },
                                     {
                                       "vcId": "vc_mq72o8ji_1l_cgc80m",
-                                      "figmaId": "10:1839",
+                                      "figmaId": "19:493",
                                       "name": "Frame 692",
                                       "type": "FRAME",
                                       "props": {
@@ -13120,7 +13120,7 @@
                                       "children": [
                                         {
                                           "vcId": "vc_mq72o8jj_1m_w8tb2f",
-                                          "figmaId": "10:1840",
+                                          "figmaId": "19:494",
                                           "name": "Chat with us",
                                           "type": "TEXT",
                                           "props": {
@@ -13221,7 +13221,7 @@
                                         },
                                         {
                                           "vcId": "vc_mq72o8jk_1n_jl6lbq",
-                                          "figmaId": "10:1841",
+                                          "figmaId": "19:495",
                                           "name": "Monday through Friday 8am-5pm MDT",
                                           "type": "TEXT",
                                           "props": {
@@ -13322,7 +13322,7 @@
                                         },
                                         {
                                           "vcId": "vc_mq72o8ly_3a_p3l0rd",
-                                          "figmaId": "10:1842",
+                                          "figmaId": "19:496",
                                           "name": "v-button",
                                           "type": "INSTANCE",
                                           "props": {
@@ -13557,7 +13557,7 @@
                                           "children": [
                                             {
                                               "vcId": "vc_mq72o8lz_3b_aa1l5o",
-                                              "figmaId": "I10:1842;91:13725",
+                                              "figmaId": "I19:496;91:13725",
                                               "name": "↳ ✏️ Label",
                                               "type": "TEXT",
                                               "props": {
