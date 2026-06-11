@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "fileName": "Main",
   "fileKey": "",
-  "generatedAt": "2026-06-09T20:08:24.239Z",
+  "generatedAt": "2026-06-11T17:15:42.949Z",
   "branch": "main",
   "status": "in_progress",
   "project": "refinance",
@@ -49,7 +49,7 @@
             "y": -377,
             "rotation": 0,
             "width": 1440,
-            "height": 1324,
+            "height": 1574,
             "minWidth": null,
             "maxWidth": null,
             "minHeight": null,
@@ -1117,9 +1117,9 @@
                         "gradientStops": [
                           {
                             "color": {
-                              "r": 0.09803921729326248,
-                              "g": 0.4627451002597809,
-                              "b": 0.8235294222831726,
+                              "r": 0.7039305567741394,
+                              "g": 0.778579831123352,
+                              "b": 0.8524264097213745,
                               "a": 1
                             },
                             "position": 0,
@@ -1127,18 +1127,13 @@
                           },
                           {
                             "color": {
-                              "r": 0.25882354378700256,
-                              "g": 0.6470588445663452,
-                              "b": 0.9607843160629272,
+                              "r": 0.08550556004047394,
+                              "g": 0.08550556004047394,
+                              "b": 0.08550556004047394,
                               "a": 1
                             },
                             "position": 1,
-                            "boundVariables": {
-                              "color": {
-                                "type": "VARIABLE_ALIAS",
-                                "id": "VariableID:cee00e1f4ec370d2300d53e3110ec8459b2b9cee/91:27"
-                              }
-                            }
+                            "boundVariables": {}
                           }
                         ],
                         "gradientTransform": [
@@ -1313,7 +1308,7 @@
                 "y": 116,
                 "rotation": 0,
                 "width": 1440,
-                "height": 1208,
+                "height": 1458,
                 "minWidth": null,
                 "maxWidth": null,
                 "minHeight": null,
@@ -1401,7 +1396,7 @@
                     "y": 64.00006103515625,
                     "rotation": 0,
                     "width": 823,
-                    "height": 1084,
+                    "height": 1334,
                     "minWidth": null,
                     "maxWidth": null,
                     "minHeight": null,
@@ -4680,7 +4675,7 @@
                         "maskType": "ALPHA",
                         "layoutMode": "VERTICAL",
                         "layoutWrap": "NO_WRAP",
-                        "primaryAxisSizingMode": "AUTO",
+                        "primaryAxisSizingMode": "FIXED",
                         "counterAxisSizingMode": "FIXED",
                         "primaryAxisAlignItems": "MIN",
                         "counterAxisAlignItems": "CENTER",
@@ -4696,12 +4691,12 @@
                         "layoutGrow": 0,
                         "layoutPositioning": "AUTO",
                         "layoutSizingHorizontal": "FILL",
-                        "layoutSizingVertical": "HUG",
+                        "layoutSizingVertical": "FIXED",
                         "x": 0,
                         "y": 337,
                         "rotation": 0,
                         "width": 823,
-                        "height": 262,
+                        "height": 384,
                         "minWidth": null,
                         "maxWidth": null,
                         "minHeight": null,
@@ -7487,7 +7482,7 @@
                         "maskType": "ALPHA",
                         "layoutMode": "VERTICAL",
                         "layoutWrap": "NO_WRAP",
-                        "primaryAxisSizingMode": "AUTO",
+                        "primaryAxisSizingMode": "FIXED",
                         "counterAxisSizingMode": "FIXED",
                         "primaryAxisAlignItems": "MIN",
                         "counterAxisAlignItems": "MIN",
@@ -7503,12 +7498,12 @@
                         "layoutGrow": 0,
                         "layoutPositioning": "AUTO",
                         "layoutSizingHorizontal": "FILL",
-                        "layoutSizingVertical": "HUG",
+                        "layoutSizingVertical": "FIXED",
                         "x": 0,
-                        "y": 639,
+                        "y": 761,
                         "rotation": 0,
                         "width": 823,
-                        "height": 139,
+                        "height": 267,
                         "minWidth": null,
                         "maxWidth": null,
                         "minHeight": null,
@@ -9940,7 +9935,7 @@
                         "layoutSizingHorizontal": "FILL",
                         "layoutSizingVertical": "HUG",
                         "x": 0,
-                        "y": 818,
+                        "y": 1068,
                         "rotation": 0,
                         "width": 823,
                         "height": 48,
@@ -10648,7 +10643,7 @@
                         "layoutSizingHorizontal": "HUG",
                         "layoutSizingVertical": "HUG",
                         "x": 17,
-                        "y": 906,
+                        "y": 1156,
                         "rotation": 0,
                         "width": 789,
                         "height": 178,
